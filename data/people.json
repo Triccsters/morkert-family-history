@@ -138,7 +138,8 @@
       "rebecca-morkert"
     ],
     "children": [
-      "olivia-morkert"
+      "olivia-morkert",
+      "dylan-morkert"
     ],
     "sources": [
       "mn-birth-kenneth"
@@ -156,7 +157,8 @@
       "kenneth-morkert"
     ],
     "children": [
-      "olivia-morkert"
+      "olivia-morkert",
+      "dylan-morkert"
     ],
     "sources": [],
     "notes": "Kenneth's wife."
@@ -164,7 +166,7 @@
   {
     "id": "olivia-morkert",
     "name": "Olivia Morkert",
-    "confidence": "probable",
+    "confidence": "family",
     "living": true,
     "relation": "cousin",
     "line": "Morkert",
@@ -173,7 +175,7 @@
       "rebecca-morkert"
     ],
     "sources": [],
-    "notes": "Named as one of Joe Morkert's four nieces and nephews in 2003. The other three are DeAnn's children, which leaves Olivia as Kenneth's. The surname is assumed rather than recorded."
+    "notes": "Kenneth and Rebecca's daughter. She is one of the four nieces and nephews named in Joe Morkert's 2003 obituary, alongside T.J., Anna and Jazlyn."
   },
   {
     "id": "joseph-morkert-1975",
@@ -852,5 +854,19 @@
       "census-1820-preble"
     ],
     "notes": "Head of a household at Gratis, Preble County, Ohio in the 1820 census, the year before Elias Morkert was born in Ohio. An 1820 census names only the head, so this is a name and a place and nothing more. Earlier research named a John Lewis Morkert as an early American ancestor and put him in Indiana. The name turns out to be real and the place turns out to be Ohio. Whether he is Elias's father is not proven."
+  },
+  {
+    "id": "dylan-morkert",
+    "name": "Dylan Morkert",
+    "confidence": "family",
+    "living": true,
+    "relation": "cousin",
+    "line": "Morkert",
+    "parents": [
+      "kenneth-morkert",
+      "rebecca-morkert"
+    ],
+    "sources": [],
+    "notes": "Kenneth and Rebecca's son. He is not among the four nieces and nephews listed in the 2003 obituary, so he was most likely born after it."
   }
 ]
