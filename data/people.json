@@ -342,6 +342,7 @@
       "mary-morkert-1857"
     ],
     "children": [
+      "elizabeth-hullman-1875",
       "archibald-morkert-1888",
       "joseph-c-morkert-1878"
     ],
@@ -349,13 +350,39 @@
       "census-1880-henry",
       "census-1910-henry",
       "census-1930-york-henry",
-      "findagrave-henry-newton"
+      "findagrave-henry-newton",
+      "census-1870-elias-clay",
+      "indiana-marriage-1875-henry",
+      "numident-elizabeth-hullman"
     ],
-    "notes": "A farmer at 28 in Carroll County, Indiana in 1880, in Baldwin County, Alabama by 1910, and in Benson County, North Dakota by 1930. His census entry in 1880 gives both of his own parents as born in Ohio, which is what points to Elias and Elizabeth."
+    "notes": "A farmer at 28 in Carroll County, Indiana in 1880, in Baldwin County, Alabama by 1910, and in Benson County, North Dakota by 1930. His census entry in 1880 gives both of his own parents as born in Ohio, which is what points to Elias and Elizabeth, and the 1870 census puts him in their household at 19. He married Mary Thompson in Carroll County on 22 January 1875. His surname is written Merket in 1870, Market on the marriage licence and Markert in his daughter's Social Security record.",
+    "marriage": {
+      "date": "22 January 1875",
+      "place": "Carroll County, Indiana"
+    }
+  },
+  {
+    "id": "elizabeth-hullman-1875",
+    "name": "Elizabeth (Morkert) Hullman",
+    "birth": {
+      "date": "6 July 1875",
+      "place": "Delphi, Carroll County, Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-grandaunt",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "sources": [
+      "numident-elizabeth-hullman"
+    ],
+    "notes": "The eldest known child of Henry and Mary, born six months after their marriage. Her Social Security record names both parents and is where Mary's maiden name is written out. Her surname appears as Hullman and as Huffman, and she is very likely the daughter whose 1959 death record in Teton County, Montana already sits in these sources, though that has not been checked against her directly."
   },
   {
     "id": "mary-morkert-1857",
-    "name": "Mary M. Morkert",
+    "name": "Mary M. (Thompson) Morkert",
     "birth": {
       "date": "about 1857",
       "place": "Ohio"
@@ -367,15 +394,22 @@
       "henry-morkert-1851"
     ],
     "children": [
+      "elizabeth-hullman-1875",
       "archibald-morkert-1888",
       "joseph-c-morkert-1878"
     ],
     "sources": [
       "census-1910-alabama",
       "census-1930-york-henry",
-      "teton-huffman-1959"
+      "teton-huffman-1959",
+      "indiana-marriage-1875-henry",
+      "numident-elizabeth-hullman"
     ],
-    "notes": "Born in Ohio and with Henry in Indiana, Alabama and North Dakota. Her maiden name is probably Thompson: a daughter's 1959 death record in Montana names her parents as Henry Morkert and Mary Thompson. One record is not proof."
+    "notes": "Born in Ohio and with Henry in Indiana, Alabama and North Dakota. Her maiden name is Thompson, from her own marriage licence of 22 January 1875 in Carroll County, Indiana. Two of her children's records say the same: a daughter's 1959 death record in Montana and that daughter's Social Security record. The marriage licence is the one that settles it, because it does not depend on a child remembering.",
+    "marriage": {
+      "date": "22 January 1875",
+      "place": "Carroll County, Indiana"
+    }
   },
   {
     "id": "joseph-c-morkert-1878",
@@ -419,9 +453,10 @@
     "sources": [
       "census-1880-elias",
       "findagrave-elias",
-      "census-1820-preble"
+      "census-1820-preble",
+      "census-1870-elias-clay"
     ],
-    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana by 1880, two households from Henry. The link to Henry is not proven: it rests on the same township, the same surname, the right ages and the Ohio birthplaces that Henry's own census entry gives for his parents. What would settle it is Henry in this household in the 1860 or 1870 census, or Henry's 1933 death record. A Jno L. Morkert heads a household at Gratis in Preble County, Ohio in the 1820 census, the year before Elias was born in Ohio, which is the likeliest place this family was living then.",
+    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana. The 1870 census puts Henry, 19 and born in Indiana, inside this household rather than two doors away, alongside Elizabeth at 43 and four younger children, two of whom, Markas and George N., are the Marquis D. La and George W. who are still with Elias in 1880. That is what ties the two households together. The 1870 index gives Elias's age as 30, which cannot be right beside a wife of 43 and does not fit a birth in 1821; the original page has not been read to see whether the enumerator wrote 49. The link to Henry is still not stated by any document, because the 1870 census records no relationships, so it remains an inference, but a much closer one than before. Henry's 1933 North Dakota death record would settle it outright. A Jno L. Morkert heads a household at Gratis in Preble County, Ohio in the 1820 census, the year before Elias was born in Ohio, which is the likeliest place this family was living then.",
     "parents": [
       "john-l-morkert"
     ]
@@ -443,9 +478,10 @@
       "henry-morkert-1851"
     ],
     "sources": [
-      "census-1880-elias"
+      "census-1880-elias",
+      "census-1870-elias-clay"
     ],
-    "notes": "Born in Ohio to parents born in Pennsylvania. The surname comes from FamilySearch's own linking of this census entry to an Indiana marriage record, so it is a lead rather than a reading of the register itself. Burkhalter is Swiss German."
+    "notes": "Born in Ohio to parents born in Pennsylvania. The surname comes from FamilySearch's own linking of this census entry to an Indiana marriage record, so it is a lead rather than a reading of the register itself. Burkhalter is Swiss German. She appears at 43 in the 1870 household, which fits a birth about 1827 and corroborates the 1828 already recorded."
   },
   {
     "id": "lloyd-houle-1917",

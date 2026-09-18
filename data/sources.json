@@ -558,5 +558,35 @@
     "proves": "Jno L. Morkert heading a household at Gratis in Preble County, Ohio, the year before Elias Morkert was born in Ohio. An 1820 census names only the head of household.",
     "read": "2026-09-18",
     "strength": "record"
+  },
+  {
+    "id": "census-1870-elias-clay",
+    "title": "1870 census, Clay Township, Carroll County, Indiana, household 77",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MXX3-Z6L",
+    "proves": "One household at Clay, Carroll County, Indiana in 1870 holding Elias Merket, head, born Ohio; Elizabeth Merket, 43, born Ohio; Henry Merket, 19, born Indiana; Peter, 16; Catherine, 14; Markas, 11; and George N., 8, all born Indiana. NARA M593, page 11, line 18. The indexed age for Elias is 30, which cannot be right for a man whose wife is 43 and whose eldest children are grown.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "indiana-marriage-1875-henry",
+    "title": "Indiana marriage license, Henry N Market and Mary Thompson, 22 January 1875",
+    "repository": "FamilySearch",
+    "type": "Marriage",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XXVM-RJN",
+    "proves": "Henry N Market married Mary Thompson on a licence dated 22 January 1875 at Carrollton, Burlington Township, Carroll County, Indiana, page 68. This is the bride's own marriage record, so it establishes her maiden name without relying on a child's later recollection.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "numident-elizabeth-hullman",
+    "title": "Social Security NUMIDENT record of Elizabeth Markert Hullman",
+    "repository": "FamilySearch",
+    "type": "Social Program Document",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6KWK-Q7RN",
+    "proves": "Elizabeth Markert Hullman, also written Elizabeth C Huffman, born 6 July 1875 at Delphi, Indiana, with her father given as Henry N Markert and her mother as Mary M Thompson.",
+    "read": "2026-09-18",
+    "strength": "record"
   }
 ]
