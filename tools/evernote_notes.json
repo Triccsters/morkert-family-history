@@ -1,0 +1,15 @@
+{
+  "_comment": "place id -> Evernote note GUID. The skill's rule: keep a ledger and confirm against the server; a title search alone is not trustworthy.",
+  "index": "b553b0db-b1bb-47a9-99e5-d88390687e6f",
+  "master": "9d36aeac-b2ca-480d-ac34-69532b099a31",
+  "places": {
+    "quebec": "92608b27-6184-414d-82ad-009ad6eb9f5b",
+    "ohio": "fa9225a7-6257-4cd4-b6e5-b66f0f486439",
+    "carroll-county": "4a1f27a4-cf5c-4a6f-b9e1-ab47e8b928d3",
+    "baldwin-county": "9ddc748b-f3ba-4cf8-8102-e1e4f3126c6a",
+    "leeds-nd": "8d5d7539-eca9-49ea-971e-2a38846be89e",
+    "centerville": "732ed0e1-5adf-46c1-a3eb-b8b12722e1ba",
+    "forest-lake": "029eb784-509c-4ee5-b233-d8f1ae1309d4",
+    "scandia": "19db6337-18f8-49e3-ab90-fa360666ead4"
+  }
+}

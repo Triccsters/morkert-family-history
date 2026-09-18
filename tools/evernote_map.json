@@ -1,0 +1,42 @@
+{
+  "_comment": "Account-specific GUIDs for the Evernote view of this repo. Place tag names cannot contain commas, which is why some carry no state.",
+  "accountId": "209490887",
+  "shard": "s690",
+  "sideName": "Morkert",
+  "siteUrl": "https://morkert-family-history.vercel.app",
+  "notebookId": "98237c9d-d84d-b32f-24c7-35b6e426b956",
+  "genealogyTagId": "115f846f-729b-9d8f-09ee-0fb333485c33",
+  "sideTagId": "db975723-842a-7b8f-c2fd-5b588233d5ab",
+  "placeTags": {
+    "quebec": "75e92fc4-b292-5d43-6f62-8c87ed1bbdcb",
+    "ohio": "e777d435-0007-a10d-4c3c-d68256f7dd6d",
+    "carroll-county": "d8b9c714-baf7-7ff2-8f8b-e7bcf76afb47",
+    "baldwin-county": "ee69a700-3dd5-0310-62eb-295cfacba7ac",
+    "leeds-nd": "fb9a702e-4c25-c2d3-442d-e0b3a3c2ee72",
+    "centerville": "f2e0bc24-8241-edb4-146b-d426315130c7",
+    "forest-lake": "e90136c1-1c80-d0c8-3e73-8c1bee0e96c3",
+    "scandia": "3508e17d-8c8d-1dcb-9bce-141c5f5f283a"
+  },
+  "placeExtras": {},
+  "spines": [
+    [
+      "elias-morkert-1821",
+      "henry-morkert-1851",
+      "archibald-morkert-1888",
+      "orris-morkert-1923",
+      "rodney-morkert",
+      "deann-morkert-1969",
+      "tj-ricci"
+    ],
+    [
+      "michel-houle",
+      "john-b-houle-1840",
+      "john-a-houle-1868",
+      "john-joseph-houle-1891",
+      "lloyd-houle-1917",
+      "susan-houle-1949",
+      "deann-morkert-1969",
+      "tj-ricci"
+    ]
+  ]
+}
