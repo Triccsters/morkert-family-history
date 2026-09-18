@@ -416,9 +416,13 @@
     ],
     "sources": [
       "census-1880-elias",
-      "findagrave-elias"
+      "findagrave-elias",
+      "census-1820-preble"
     ],
-    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana by 1880, two households from Henry. The link to Henry is not proven: it rests on the same township, the same surname, the right ages and the Ohio birthplaces that Henry's own census entry gives for his parents. What would settle it is Henry in this household in the 1860 or 1870 census, or Henry's 1933 death record."
+    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana by 1880, two households from Henry. The link to Henry is not proven: it rests on the same township, the same surname, the right ages and the Ohio birthplaces that Henry's own census entry gives for his parents. What would settle it is Henry in this household in the 1860 or 1870 census, or Henry's 1933 death record. A Jno L. Morkert heads a household at Gratis in Preble County, Ohio in the 1820 census, the year before Elias was born in Ohio, which is the likeliest place this family was living then.",
+    "parents": [
+      "john-l-morkert"
+    ]
   },
   {
     "id": "elizabeth-burkhalter-1828",
@@ -556,7 +560,8 @@
     "id": "john-joseph-houle-1891",
     "name": "John Joseph Houle",
     "birth": {
-      "date": "1891"
+      "date": "August 1891",
+      "place": "Minnesota"
     },
     "death": {
       "date": "3 March 1970",
@@ -583,6 +588,7 @@
     "sources": [
       "mn-death-johnj-1970",
       "mn-marriage-1914",
+      "census-1900-johnj",
       "census-1930-lloyd",
       "census-1940-johnj"
     ],
@@ -622,7 +628,7 @@
     "id": "john-a-houle-1868",
     "name": "John A. Houle",
     "birth": {
-      "date": "1868",
+      "date": "November 1868",
       "place": "Centerville, Anoka County, Minnesota"
     },
     "death": {
@@ -644,9 +650,15 @@
     ],
     "sources": [
       "mn-death-johna-1942",
-      "census-1875-centerville"
+      "census-1875-centerville",
+      "census-1900-johna",
+      "census-1910-johna"
     ],
-    "notes": "The first of this line born in America, at Centerville. He is six years old in the 1875 state census, in the household with his father, mother and grandfather. His brothers there are Philias, Theodore, Thomas and William; the eldest, Philias, was born in Michigan, which says the family stopped there on the way west."
+    "notes": "The first of this line born in America. The 1900 census narrows his birth to November 1868 and says he married in 1889; by 1910 he and Mathilda were at Columbus, a few miles from Centerville. He is six years old in the 1875 household with his father, mother and grandfather. His brothers there are Philias, Theodore, Thomas and William, and the eldest, Philias, was born in Michigan.",
+    "marriage": {
+      "date": "1889",
+      "spouse": "mathilda-letourneau"
+    }
   },
   {
     "id": "mathilda-letourneau",
@@ -661,15 +673,21 @@
       "john-joseph-houle-1891"
     ],
     "sources": [
-      "mn-death-johnj-1970"
+      "mn-death-johnj-1970",
+      "census-1900-johna",
+      "census-1910-johna"
     ],
-    "notes": "Named as the mother on her son's 1970 death record. Nothing else about her has been found yet, not even a birth year."
+    "notes": "Married John A. Houle in 1889 and appears with him and the children in the 1900 and 1910 censuses. Her surname comes from her son's death record. No birth year, no parents, and no record of her own has been found yet.",
+    "marriage": {
+      "date": "1889",
+      "spouse": "john-a-houle-1868"
+    }
   },
   {
     "id": "john-b-houle-1840",
-    "name": "John B. Houle",
+    "name": "John Baptiste Houle",
     "birth": {
-      "date": "about 1842",
+      "date": "22 August 1842",
       "place": "Lower Canada (Quebec)"
     },
     "death": {
@@ -689,12 +707,19 @@
       "john-a-houle-1868"
     ],
     "sources": [
+      "findagrave-johnb",
+      "census-1900-centerville",
       "census-1875-centerville",
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
       "mn-death-johna-1942"
     ],
-    "notes": "Born in Lower Canada and brought to Minnesota as a boy. The records give his birth year three different ways, 1840 and 1841 on his death record and 1843 on the 1875 census, which is normal for a man whose age was reported by other people all his life. In 1875 he is head of a household at Centerville with his wife Virginia, his father Michel, and five children. He died in the same village in 1929."
+    "notes": "His full name was John Baptiste, and his memorial gives an exact birth of 22 August 1842. He was brought from Quebec as a boy and died at Centerville eighty-six years later, buried at Saint Genevieve with his father. The 1900 census says he had been married thirty-three years, which puts the wedding at about 1867, and gives both of his own parents as born in French Canada.",
+    "marriage": {
+      "date": "about 1867",
+      "place": "Minnesota",
+      "spouse": "virginia-tourville"
+    }
   },
   {
     "id": "virginia-tourville",
@@ -710,20 +735,26 @@
     ],
     "sources": [
       "census-1875-centerville",
+      "census-1900-centerville",
       "mn-death-johna-1942",
       "mn-death-johnb-1929"
     ],
-    "notes": "Aged 28 and born in Lower Canada in the 1875 census, so she came from Quebec as a child or young woman rather than being born in Minnesota. A Euphemie Tourville, 14, also born in Lower Canada, is in the same household, most likely her sister.",
+    "notes": "Twenty-eight in 1875 and fifty-three in 1900, born in French Canada both times, so she came from Quebec rather than being born here. She and John Baptiste were married about 1867 and had at least eight children. A Euphemie Tourville, fourteen and also Quebec-born, is in the household in 1875, most likely her sister.",
     "birth": {
       "date": "about 1847",
       "place": "Lower Canada (Quebec)"
+    },
+    "marriage": {
+      "date": "about 1867",
+      "place": "Minnesota",
+      "spouse": "john-b-houle-1840"
     }
   },
   {
     "id": "michel-houle",
     "name": "Michel \"Michael\" Houle",
     "birth": {
-      "date": "about 1805",
+      "date": "29 September 1802",
       "place": "Lower Canada (Quebec)"
     },
     "confidence": "record",
@@ -734,13 +765,20 @@
       "thomas-houle-1851"
     ],
     "sources": [
+      "findagrave-michel",
+      "census-1895-centerville",
       "census-1875-centerville",
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
-      "mn-death-thomas-1934"
+      "mn-death-thomas-1934",
+      "findagrave-zotique"
     ],
-    "notes": "Found in person. The 1875 Minnesota state census has him at Centerville, aged 70 and born in Lower Canada, living in his son John B.'s household with three generations around him. That puts his birth at about 1805, within a year of the 1806 the earlier research claimed, and it is the first record to place him rather than merely name him. His two sons' death records name him as the father, written Michael on one and Mitchell on the other. Nothing yet reaches his own parents or a Quebec parish.",
-    "spouses": []
+    "notes": "Now dated, not just named. He is at Centerville in the 1875 state census aged 70 and again in 1895 aged about 89, and his memorial gives 29 September 1802 to 6 December 1898, buried at Saint Genevieve Cemetery. He was ninety-six. Earlier research guessed 1806 and 1898 for him; the death is exact and the birth is four years out. One warning about the memorial: the index maps Saint Genevieve Cemetery to Shoreham, Vermont. It is Centerville, Minnesota. A Zotique Houle appears in the same Vermont-labelled cemetery and in the Minnesota county death register on the same day in 1897, which is what gives the error away.",
+    "spouses": [],
+    "death": {
+      "date": "6 December 1898",
+      "place": "Centerville, Anoka County, Minnesota"
+    }
   },
   {
     "id": "thomas-houle-1851",
@@ -797,5 +835,22 @@
       "numident-evelyn"
     ],
     "notes": "Named on her daughter's Social Security file, with no surname given other than her married one. Inga is a Norwegian name, as is Anton."
+  },
+  {
+    "id": "john-l-morkert",
+    "name": "John L. Morkert",
+    "confidence": "probable",
+    "relation": "5th great-grandfather",
+    "line": "Morkert",
+    "birth": {
+      "place": "probably Pennsylvania or Ohio"
+    },
+    "children": [
+      "elias-morkert-1821"
+    ],
+    "sources": [
+      "census-1820-preble"
+    ],
+    "notes": "Head of a household at Gratis, Preble County, Ohio in the 1820 census, the year before Elias Morkert was born in Ohio. An 1820 census names only the head, so this is a name and a place and nothing more. Earlier research named a John Lewis Morkert as an early American ancestor and put him in Indiana. The name turns out to be real and the place turns out to be Ohio. Whether he is Elias's father is not proven."
   }
 ]

@@ -12,6 +12,7 @@
       "The 1875 Minnesota state census caught the whole thing on one page. Michel Houle, seventy, born Lower Canada. His son John B., thirty-two, born Lower Canada. John B.'s wife Virginia Tourville, twenty-eight, born Lower Canada. Then the children: Philias, seven, born Michigan. John A., six, Theodore, four, Thomas, three, and William, one, all born Minnesota.",
       "Read in order, that is the route. Quebec until at least the 1840s, Michigan around 1868, Minnesota from about 1869 onward. The Michigan leg is new; no earlier account of this family had it.",
       "Michel's age puts his birth at about 1805, within a year of the 1806 the earlier research claimed for him, which is the first independent support that story has had.",
+      "Michel's own dates are now known: born 29 September 1802, died 6 December 1898 at Centerville. So he crossed in his forties or early fifties with children in tow, and lived another four decades on this side.",
       "What is still missing is the crossing itself. No passenger list, no border record, and no Quebec parish register has been matched to any of them."
     ],
     "people": [
@@ -23,7 +24,10 @@
     "sources": [
       "census-1875-centerville",
       "mn-death-johnb-1929",
-      "mn-death-thomas-1934"
+      "mn-death-thomas-1934",
+      "findagrave-michel",
+      "census-1895-centerville",
+      "census-1900-centerville"
     ]
   },
   {
@@ -33,19 +37,22 @@
     "sortYear": 1845,
     "place": "Ohio to Carroll County, Indiana",
     "placeId": "ohio",
-    "confidence": "probable",
+    "confidence": "record",
     "summary": "A move visible only in the birthplace column of one census page.",
     "paragraphs": [
       "Elias Morkert was born in Ohio about 1821 and Elizabeth in Ohio in 1828. By 1880 they are farming in Clay Township, Carroll County, Indiana, with sons born in Indiana. Henry Morkert, born in Indiana about 1851, gives both his parents as Ohio-born on the same census.",
+      "There is one Ohio record now. The 1820 census has a Jno L. Morkert at Gratis in Preble County, on the Indiana line, the year before Elias was born in Ohio, and Morkerts appear again in the Preble County deed books through 1831.",
       "Elizabeth's parents are recorded as born in Pennsylvania, which sets the family's direction: Pennsylvania, then Ohio, then Indiana, the standard route for German-speaking farming families in those decades.",
       "The surnames agree. Morkert is German or Alsatian; Burkhalter is Swiss German."
     ],
     "people": [
+      "john-l-morkert",
       "elias-morkert-1821",
       "elizabeth-burkhalter-1828",
       "henry-morkert-1851"
     ],
     "sources": [
+      "census-1820-preble",
       "census-1880-elias",
       "census-1880-henry"
     ]
@@ -247,6 +254,31 @@
     ],
     "sources": [
       "mn-birth-joseph-1975"
+    ]
+  },
+  {
+    "id": "death-michel-1898",
+    "title": "Michel Houle dies at ninety-six",
+    "date": "6 December 1898",
+    "sortYear": 1898,
+    "place": "Centerville, Anoka County, Minnesota",
+    "placeId": "centerville",
+    "confidence": "record",
+    "summary": "The immigrant outlived everyone who could have told us where in Quebec he came from.",
+    "paragraphs": [
+      "Born 29 September 1802 in Lower Canada, died 6 December 1898 at Centerville, buried at Saint Genevieve. He had been in Minnesota more than forty years by then and was still being enumerated there in 1895 at about eighty-nine.",
+      "He died two years before Minnesota started registering deaths statewide, which is why there is a memorial and a census entry for him but no death certificate. Anything more about him is in the Saint Genevieve parish register or in Quebec.",
+      "Earlier research guessed 1806 to 1898 for him. The death is exactly right and the birth is four years out, which is a fair result for a guess nobody had checked."
+    ],
+    "people": [
+      "michel-houle",
+      "john-b-houle-1840"
+    ],
+    "sources": [
+      "findagrave-michel",
+      "census-1895-centerville",
+      "census-1875-centerville",
+      "findagrave-zotique"
     ]
   }
 ]

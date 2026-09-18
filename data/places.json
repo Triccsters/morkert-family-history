@@ -11,15 +11,17 @@
     ],
     "summary": "Where the Houle line comes from, and the only place on this site outside the United States.",
     "paragraphs": [
-      "Michel Houle was seventy years old and born in Lower Canada when the 1875 Minnesota state census found him at Centerville, living in his son's house. Lower Canada is Quebec, and that census entry is the only record so far that places him rather than merely naming him.",
+      "Michel Houle was born on 29 September 1802 in Lower Canada and died at Centerville on 6 December 1898, ninety-six years old. Two Minnesota state censuses catch him there, aged 70 in 1875 and about 89 in 1895.",
       "His son John B. was born there about 1842 and his daughter-in-law Virginia Tourville about 1847, both in Lower Canada. A Euphemie Tourville, fourteen, is in the same household, also Quebec-born.",
       "The French surnames stack up from there: Houle, Tourville, Letourneau, Bernier and LaCasse. Every one is a Quebec name, and the family stayed Catholic through four generations in Minnesota.",
       "Nothing reaches across the border yet. No parish register, no crossing, and no record of Michel's own parents."
     ],
     "sources": [
+      "findagrave-michel",
+      "census-1895-centerville",
       "census-1875-centerville",
-      "mn-death-johnb-1929",
-      "mn-death-thomas-1934"
+      "census-1900-centerville",
+      "mn-death-johnb-1929"
     ]
   },
   {
@@ -28,14 +30,18 @@
     "region": "United States",
     "span": "before 1852",
     "matchers": [
-      "Ohio"
+      "Ohio",
+      "Preble",
+      "Gratis"
     ],
     "summary": "The oldest place on the Morkert side, known only from where people said they were born.",
     "paragraphs": [
-      "No Morkert record on this site was made in Ohio. The state appears three times as an answer on a census form instead: Elias Morkert born there about 1821, Elizabeth born there in 1828, and Henry Morkert's own 1880 entry giving both his parents as Ohio-born.",
-      "Elizabeth's parents are given as born in Pennsylvania, which pushes the family one state further back again. The German and Swiss German surnames on this branch, Morkert and Burkhalter, point the same way, toward the Pennsylvania and Ohio German settlements of the early 1800s."
+      "Almost no Morkert record on this site was made in Ohio. The state appears mostly as an answer on a census form: Elias born there about 1821, Elizabeth born there in 1828, and Henry's 1880 entry giving both his parents as Ohio-born.",
+      "There is one record. The 1820 census has a Jno L. Morkert heading a household at Gratis, in Preble County on the Indiana line, the year before Elias was born in Ohio. Full-text search turns up Morkerts again in the Preble County deed books for 1828 to 1831. That is where this family was.",
+      "Elizabeth's parents are given as born in Pennsylvania, which pushes the family one state further back again. The surnames agree: Morkert is German or Alsatian, Burkhalter is Swiss German."
     ],
     "sources": [
+      "census-1820-preble",
       "census-1880-henry",
       "census-1880-elias"
     ]
@@ -130,7 +136,8 @@
       "The 1875 state census shows how concentrated it was. One Houle household holds three generations: Michel, seventy; his son John B., thirty-two, and John B.'s wife Virginia, both born in Lower Canada; and five children born since. Other Houle households sit around it in the same village.",
       "John B. Houle came from Canada as a boy, and his son John A. was born at Centerville in 1868. John B. died there in 1929, eighty-nine years old, having lived in the same village almost his whole life.",
       "The LaCasse side is there too. Cyrille and Delina Lacasse are heads of a household at Centerville in both the 1920 and 1930 censuses, and their daughter Blanche grew up there before marrying at Anoka in 1941.",
-      "Both Houle marriages on this tree were performed at Anoka, the county seat, in 1914 and 1941."
+      "Both Houle marriages on this tree were performed at Anoka, the county seat, in 1914 and 1941.",
+      "Saint Genevieve is the parish, and its cemetery holds both Michel and his son John Baptiste. It is also where the family's records would be if they survive, since Michel died in 1898, two years before Minnesota began registering deaths statewide."
     ],
     "sources": [
       "mn-death-johnb-1929",
@@ -139,7 +146,11 @@
       "census-1920-blanche",
       "census-1930-blanche",
       "mn-marriage-1914",
-      "mn-marriage-1941"
+      "mn-marriage-1941",
+      "findagrave-michel",
+      "findagrave-johnb",
+      "census-1895-centerville",
+      "census-1900-centerville"
     ]
   },
   {

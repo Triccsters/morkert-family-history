@@ -35,7 +35,12 @@ export default function RootLayout({ children }) {
         <footer className="site">
           <div className="wrap">
             Kept by {site.owner}. Last updated {site.updated}. Every claim on this
-            site links to the record it rests on, or is marked as unverified.
+            site links to the record it rests on, or is marked as unverified. The
+            other side of this family is at{" "}
+            <a href="https://ricci-family-history.vercel.app/">
+              ricci-family-history.vercel.app
+            </a>
+            .
           </div>
         </footer>
         </ViewerProvider>

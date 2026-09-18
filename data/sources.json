@@ -458,5 +458,105 @@
     "proves": "Born 14 July 1888, died 18 December 1958, buried Woodbine Cemetery, Jo Daviess County, Illinois. Carries Larson as her maiden name.",
     "read": "2026-09-18",
     "strength": "compiled"
+  },
+  {
+    "id": "census-1895-centerville",
+    "title": "Minnesota state census 1895, Centerville, Anoka County",
+    "repository": "FamilySearch",
+    "type": "State census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MQDD-MB9",
+    "proves": "Michel Houle at Centerville, born 1806 in Canada, still living at about 89.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "findagrave-michel",
+    "title": "Find a Grave, Michel Houle",
+    "repository": "FamilySearch, Find a Grave Index",
+    "type": "Memorial",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVV2-6D43",
+    "proves": "Born 29 September 1802, died 6 December 1898, buried Saint Genevieve Cemetery. The index maps the cemetery to Shoreham, Vermont; the death itself is filed under Anoka County, Minnesota.",
+    "read": "2026-09-18",
+    "strength": "compiled"
+  },
+  {
+    "id": "findagrave-johnb",
+    "title": "Find a Grave, John Baptiste Houle",
+    "repository": "FamilySearch, Find a Grave Index",
+    "type": "Memorial",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVV2-6D4S",
+    "proves": "Born 22 August 1842, died 10 July 1929, buried Saint Genevieve Cemetery, Centerville. Gives his full name, John Baptiste.",
+    "read": "2026-09-18",
+    "strength": "compiled"
+  },
+  {
+    "id": "findagrave-zotique",
+    "title": "Find a Grave and Minnesota county death, Zotique Houle",
+    "repository": "FamilySearch",
+    "type": "Memorial and death record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVV2-6D4H",
+    "proves": "One person, two records, same date of 24 October 1897: the memorial puts the burial at Saint Genevieve Cemetery, Shoreham, Vermont, and the Minnesota county death register puts the death in Minnesota. This is the proof that the Vermont mapping is an indexing error for Saint Genevieve, Centerville.",
+    "read": "2026-09-18",
+    "strength": "compiled"
+  },
+  {
+    "id": "census-1900-centerville",
+    "title": "1900 census, Centerville Township, Anoka County, Minnesota",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M995-TYH",
+    "proves": "John B. Houle, 58, born August 1842 in French Canada, both parents born French Canada, married 33 years. Wife Virginia, 53, born French Canada. Children at home Harvey 24, Mary 16, Eddie 14. The indexed place says Beltrami; the original says Centerville Township, Anoka.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "census-1900-johna",
+    "title": "1900 census, John Houle and Matilda, Anoka County, Minnesota",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M995-GD4",
+    "proves": "Born November 1868 in Minnesota, married 1889, wife Matilda.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "census-1900-johnj",
+    "title": "1900 census, John Houle, son of John and Matilda",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M995-GDZ",
+    "proves": "Born August 1891 in Minnesota.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "census-1910-johna",
+    "title": "1910 census, Columbus, Anoka County, Minnesota",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2L8-ZZ6",
+    "proves": "John A. Houle with wife Mathilda and their children.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "mn-marriage-1869-peltier",
+    "title": "Minnesota marriage, Michel or Michael Houle and Mary Peltier, 7 February 1869",
+    "repository": "FamilySearch",
+    "type": "Marriage index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:FDF8-5QG",
+    "proves": "A Michel Houle married Mary Peltier in Ramsey County on 7 February 1869. Whether this is the same Michel is not established.",
+    "read": "2026-09-18",
+    "strength": "compiled"
+  },
+  {
+    "id": "census-1820-preble",
+    "title": "1820 census, Gratis, Preble County, Ohio",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XHL9-LWD",
+    "proves": "Jno L. Morkert heading a household at Gratis in Preble County, Ohio, the year before Elias Morkert was born in Ohio. An 1820 census names only the head of household.",
+    "read": "2026-09-18",
+    "strength": "record"
   }
 ]
