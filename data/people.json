@@ -879,12 +879,31 @@
       "mn-death-thomas-1934",
       "findagrave-zotique"
     ],
-    "notes": "Now dated, not just named. He is at Centerville in the 1875 state census aged 70 and again in 1895 aged about 89, and his memorial gives 29 September 1802 to 6 December 1898, buried at Saint Genevieve Cemetery. He was ninety-six. Earlier research guessed 1806 and 1898 for him; the death is exact and the birth is four years out. One warning about the memorial: the index maps Saint Genevieve Cemetery to Shoreham, Vermont. It is Centerville, Minnesota. A Zotique Houle appears in the same Vermont-labelled cemetery and in the Minnesota county death register on the same day in 1897, which is what gives the error away.",
-    "spouses": [],
+    "notes": "Now dated, not just named. He is at Centerville in the 1875 state census aged 70 and again in 1895 aged about 89, and his memorial gives 29 September 1802 to 6 December 1898, buried at Saint Genevieve Cemetery. He was ninety-six. Earlier research guessed 1806 and 1898 for him; the death is exact and the birth is four years out. One warning about the memorial: the index maps Saint Genevieve Cemetery to Shoreham, Vermont. It is Centerville, Minnesota. A Zotique Houle appears in the same Vermont-labelled cemetery and in the Minnesota county death register on the same day in 1897, which is what gives the error away. His wife is now named, if not reliably spelled: Thomas's 1934 death record gives her as Kadzi Tougon, probably Tougas. Searching Quebec registers for a Houle and Tougas marriage is the first route into his parents that does not depend on the surname Houle alone, which is far too common there to filter on.",
+    "spouses": [
+      "kadzi-tougon"
+    ],
     "death": {
       "date": "6 December 1898",
       "place": "Centerville, Anoka County, Minnesota"
     }
+  },
+  {
+    "id": "kadzi-tougon",
+    "name": "Kadzi (Tougon) Houle",
+    "confidence": "probable",
+    "relation": "6th great-grandmother",
+    "line": "Tougon",
+    "spouses": [
+      "michel-houle"
+    ],
+    "children": [
+      "thomas-houle-1851"
+    ],
+    "sources": [
+      "mn-death-thomas-1934"
+    ],
+    "notes": "Michel's wife, named only once: her son Thomas's 1934 Minnesota death record gives his parents as Mitchell Houle and Kadzi Tougon. Both halves of that are clearly a clerk writing down French by ear, and Tougon is most likely Tougas, which is a real and common Quebec surname; that is a guess, not a reading of any register. She is proven only as Thomas's mother. Whether she is also the mother of John Baptiste, who carries the direct line, is not proven, because his own death record leaves his mother unknown; the two brothers being nine years apart under one father makes it likely but not certain. Her surname is the first searchable thing this line has ever had on the Quebec side."
   },
   {
     "id": "thomas-houle-1851",
@@ -901,7 +920,8 @@
     "relation": "5th great-granduncle",
     "line": "Houle",
     "parents": [
-      "michel-houle"
+      "michel-houle",
+      "kadzi-tougon"
     ],
     "sources": [
       "mn-death-thomas-1934"
