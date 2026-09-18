@@ -324,7 +324,7 @@
     "id": "henry-morkert-1851",
     "name": "Henry Newton Morkert",
     "birth": {
-      "date": "1851",
+      "date": "February 1851",
       "place": "Indiana"
     },
     "death": {
@@ -344,7 +344,10 @@
     "children": [
       "elizabeth-hullman-1875",
       "archibald-morkert-1888",
-      "joseph-c-morkert-1878"
+      "joseph-c-morkert-1878",
+      "gustave-morkert-1882",
+      "salamon-morkert-1884",
+      "levi-morkert-1886"
     ],
     "sources": [
       "census-1880-henry",
@@ -353,9 +356,11 @@
       "findagrave-henry-newton",
       "census-1870-elias-clay",
       "indiana-marriage-1875-henry",
-      "numident-elizabeth-hullman"
+      "numident-elizabeth-hullman",
+      "census-1900-beaver-henry",
+      "census-1920-blackduck-henry"
     ],
-    "notes": "A farmer at 28 in Carroll County, Indiana in 1880, in Baldwin County, Alabama by 1910, and in Benson County, North Dakota by 1930. His census entry in 1880 gives both of his own parents as born in Ohio, which is what points to Elias and Elizabeth, and the 1870 census puts him in their household at 19. He married Mary Thompson in Carroll County on 22 January 1875. His surname is written Merket in 1870, Market on the marriage licence and Markert in his daughter's Social Security record.",
+    "notes": "Born in Indiana in February 1851 and married to Mary Thompson in Carroll County on 22 January 1875, which the 1900 census confirms by recording twenty-five years married. The family did not go from Indiana to North Dakota and stay: all six known children were born in Indiana, the last about 1888; they were farming in Benson County, North Dakota by 1900; in Baldwin County, Alabama by 1910; living with their son Gust at Blackduck in Beltrami County, Minnesota in 1920; and back in Benson County by 1930. His 1880 and 1900 entries both give his own parents as born in Ohio, which is what points to Elias and Elizabeth, and the 1870 census puts him in their household at 19. His 1920 entry instead makes his mother a Pennsylvanian, which may be the enumerator reaching back a generation, since Elizabeth's own parents were born in Pennsylvania. His surname is written Merket in 1870, Market on the marriage licence, Markert in 1900 and 1920, and Morkert by 1930.",
     "marriage": {
       "date": "22 January 1875",
       "place": "Carroll County, Indiana"
@@ -396,16 +401,21 @@
     "children": [
       "elizabeth-hullman-1875",
       "archibald-morkert-1888",
-      "joseph-c-morkert-1878"
+      "joseph-c-morkert-1878",
+      "gustave-morkert-1882",
+      "salamon-morkert-1884",
+      "levi-morkert-1886"
     ],
     "sources": [
       "census-1910-alabama",
       "census-1930-york-henry",
       "teton-huffman-1959",
       "indiana-marriage-1875-henry",
-      "numident-elizabeth-hullman"
+      "numident-elizabeth-hullman",
+      "census-1900-beaver-henry",
+      "census-1920-blackduck-henry"
     ],
-    "notes": "Born in Ohio and with Henry in Indiana, Alabama and North Dakota. Her maiden name is Thompson, from her own marriage licence of 22 January 1875 in Carroll County, Indiana. Two of her children's records say the same: a daughter's 1959 death record in Montana and that daughter's Social Security record. The marriage licence is the one that settles it, because it does not depend on a child remembering.",
+    "notes": "Born in Ohio and with Henry in Indiana, North Dakota, Alabama, Minnesota and North Dakota again. Her maiden name is Thompson, from her own marriage licence of 22 January 1875 in Carroll County, Indiana. Two of her children's records say the same. The marriage licence is the one that settles it, because it does not depend on a child remembering. The censuses put her birth between 1856 and 1859.",
     "marriage": {
       "date": "22 January 1875",
       "place": "Carroll County, Indiana"
@@ -429,6 +439,64 @@
       "census-1880-joseph-c"
     ],
     "notes": "Archie's older brother, two years old in the 1880 census. He went to North Dakota too, and earlier research has him prominent in Leeds."
+  },
+  {
+    "id": "gustave-morkert-1882",
+    "name": "Gustave L. Morkert",
+    "birth": {
+      "date": "about 1882",
+      "place": "Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-granduncle",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "sources": [
+      "census-1900-beaver-henry",
+      "census-1920-blackduck-henry"
+    ],
+    "notes": "Named as a son in the 1900 census at Beaver Township, born in Indiana. By 1920 he was a widower at Blackduck in Minnesota with six children and with his parents living in his household. His children were born in North Dakota, Alabama and Missouri, which traces the family's movements between 1906 and 1917."
+  },
+  {
+    "id": "salamon-morkert-1884",
+    "name": "Salamon D. Morkert",
+    "birth": {
+      "date": "about 1884",
+      "place": "Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-granduncle",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "sources": [
+      "census-1900-beaver-henry"
+    ],
+    "notes": "Named as a son in the 1900 census at Beaver Township, Benson County, North Dakota, born in Indiana; the birth year is estimated from his age there."
+  },
+  {
+    "id": "levi-morkert-1886",
+    "name": "Levi N. Morkert",
+    "birth": {
+      "date": "about 1886",
+      "place": "Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-granduncle",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "sources": [
+      "census-1900-beaver-henry"
+    ],
+    "notes": "Named as a son in the 1900 census at Beaver Township, Benson County, North Dakota, born in Indiana; the birth year is estimated from his age there."
   },
   {
     "id": "elias-morkert-1821",
@@ -456,7 +524,7 @@
       "census-1820-preble",
       "census-1870-elias-clay"
     ],
-    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana. The 1870 census puts Henry, 19 and born in Indiana, inside this household rather than two doors away, alongside Elizabeth at 43 and four younger children, two of whom, Markas and George N., are the Marquis D. La and George W. who are still with Elias in 1880. That is what ties the two households together. The 1870 index gives Elias's age as 30, which cannot be right beside a wife of 43 and does not fit a birth in 1821; the original page has not been read to see whether the enumerator wrote 49. The link to Henry is still not stated by any document, because the 1870 census records no relationships, so it remains an inference, but a much closer one than before. Henry's 1933 North Dakota death record would settle it outright. A Jno L. Morkert heads a household at Gratis in Preble County, Ohio in the 1820 census, the year before Elias was born in Ohio, which is the likeliest place this family was living then.",
+    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana. The 1870 census puts Henry, 19 and born in Indiana, inside this household rather than two doors away, alongside Elizabeth at 43 and four younger children, two of whom, Markas and George N., are the Marquis D. La and George W. who are still with Elias in 1880. That is what ties the two households together. The 1870 index gives Elias's age as 30, which cannot be right beside a wife of 43 and does not fit a birth in 1821; the original page has not been read to see whether the enumerator wrote 49. Henry's 1900 census entry gives both of his parents as born in Ohio, which is now the second census to say so and fits Elias and Elizabeth, though his 1920 entry makes his mother a Pennsylvanian. The link to Henry is still not stated by any document, because the 1870 census records no relationships, so it remains an inference, but a much closer one than before. Henry's 1933 North Dakota death record would settle it outright. A Jno L. Morkert heads a household at Gratis in Preble County, Ohio in the 1820 census, the year before Elias was born in Ohio, which is the likeliest place this family was living then.",
     "parents": [
       "john-l-morkert"
     ]
