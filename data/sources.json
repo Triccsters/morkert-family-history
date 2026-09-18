@@ -378,5 +378,85 @@
     "proves": "The same household five years on, indexed as Blance Lacasse, parents Cyril and Delina.",
     "read": "2026-09-18",
     "strength": "record"
+  },
+  {
+    "id": "census-1875-centerville",
+    "title": "Minnesota state census 1875, Centerville, Anoka County",
+    "repository": "FamilySearch",
+    "type": "State census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:MKN4-P61",
+    "proves": "One household: Michel Houle, 70, born Lower Canada; John B. Houle, 32, born Lower Canada; Virginia, 28, born Lower Canada; Philias, 21, born Lower Canada; then Philias, 7, born Michigan, John A., 6, Theodore, 4, Thomas, 3, and William, 1, all born Minnesota. Also Gilbert Neveaux, 22, and Euphemie Tourville, 14.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "ssdi-evelyn-1998",
+    "title": "Social Security Death Index, Evelyn A. Morkert",
+    "repository": "FamilySearch",
+    "type": "Death index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:J573-J3F",
+    "proves": "Born 19 October 1922, died 10 August 1998 in Washington County, Minnesota.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "mn-death-evelyn-1998",
+    "title": "Minnesota Death Index, Evelyn Anneta Morkert",
+    "repository": "FamilySearch",
+    "type": "Death index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:V4WJ-4XC",
+    "proves": "Died 10 August 1998 at Minneapolis. Born 19 October 1922 in North Dakota. Mother's maiden name Gunderson.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "findagrave-evelyn",
+    "title": "Find a Grave, Evelyn Anneta Gunderson Morkert",
+    "repository": "FamilySearch, Find a Grave Index",
+    "type": "Memorial",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVGB-6NXV",
+    "proves": "Buried at Scandinavian Cemetery, Forest Lake, Washington County, Minnesota. Carries Gunderson as her maiden name.",
+    "read": "2026-09-18",
+    "strength": "compiled"
+  },
+  {
+    "id": "numident-evelyn",
+    "title": "Social Security file, Evelyn Anetta Morkert",
+    "repository": "FamilySearch, NUMIDENT",
+    "type": "Social Security record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6K7Y-BKLY",
+    "proves": "Born 19 October 1922 at Harlow, Benson County, North Dakota. Parents Anton Gunderson and Inga Gunderson. Living at Forest Lake, Minnesota.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "census-1950-julia",
+    "title": "1950 census, Julia B. Morkert, Leeds, Benson County, North Dakota",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6F7Z-53S3",
+    "proves": "Born 1889 in North Dakota, wife of Archibald M. Morkert, with daughter Jean L. Morkert.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "census-1925-julia",
+    "title": "North Dakota state census 1925, Julia Morkert, Leeds Township",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QVRM-RKND",
+    "proves": "Born 1889.",
+    "read": "2026-09-18",
+    "strength": "record"
+  },
+  {
+    "id": "findagrave-julia",
+    "title": "Find a Grave, Julia B. Larson Morkert",
+    "repository": "FamilySearch, Find a Grave Index",
+    "type": "Memorial",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QV28-HL9L",
+    "proves": "Born 14 July 1888, died 18 December 1958, buried Woodbine Cemetery, Jo Daviess County, Illinois. Carries Larson as her maiden name.",
+    "read": "2026-09-18",
+    "strength": "compiled"
   }
 ]

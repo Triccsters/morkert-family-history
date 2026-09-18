@@ -3,112 +3,196 @@
     "id": "quebec",
     "name": "Quebec",
     "region": "Canada",
-    "span": "before 1855",
-    "matchers": ["Canada", "Quebec"],
+    "span": "before 1868",
+    "matchers": [
+      "Canada",
+      "Quebec",
+      "Lower Canada"
+    ],
     "summary": "Where the Houle line comes from, and the only place on this site outside the United States.",
     "paragraphs": [
-      "Two brothers on this tree were born in Canada, John B. Houle about 1840 and Thomas Houle about 1851, and both died in Minnesota. Their father, named Michael on one death record and Mitchell on the other, is the immigrant at the top of the line.",
-      "The French surnames stack up from there: Houle, Tourville, Letourneau, Bernier, LaCasse. Every one of them is a Quebec name, and the family stayed Catholic through four generations in Minnesota.",
-      "Nothing on the Quebec side is proven yet. Earlier research describes a Michel Houle born at St-Michel d'Yamaska in 1806 who crossed in 1855, and the birth years of his two sons fit that, but no record here reaches across the border."
+      "Michel Houle was seventy years old and born in Lower Canada when the 1875 Minnesota state census found him at Centerville, living in his son's house. Lower Canada is Quebec, and that census entry is the only record so far that places him rather than merely naming him.",
+      "His son John B. was born there about 1842 and his daughter-in-law Virginia Tourville about 1847, both in Lower Canada. A Euphemie Tourville, fourteen, is in the same household, also Quebec-born.",
+      "The French surnames stack up from there: Houle, Tourville, Letourneau, Bernier and LaCasse. Every one is a Quebec name, and the family stayed Catholic through four generations in Minnesota.",
+      "Nothing reaches across the border yet. No parish register, no crossing, and no record of Michel's own parents."
     ],
-    "sources": ["mn-death-johnb-1929", "mn-death-thomas-1934"]
+    "sources": [
+      "census-1875-centerville",
+      "mn-death-johnb-1929",
+      "mn-death-thomas-1934"
+    ]
   },
   {
     "id": "ohio",
     "name": "Ohio",
     "region": "United States",
     "span": "before 1852",
-    "matchers": ["Ohio"],
+    "matchers": [
+      "Ohio"
+    ],
     "summary": "The oldest place on the Morkert side, known only from where people said they were born.",
     "paragraphs": [
       "No Morkert record on this site was made in Ohio. The state appears three times as an answer on a census form instead: Elias Morkert born there about 1821, Elizabeth born there in 1828, and Henry Morkert's own 1880 entry giving both his parents as Ohio-born.",
       "Elizabeth's parents are given as born in Pennsylvania, which pushes the family one state further back again. The German and Swiss German surnames on this branch, Morkert and Burkhalter, point the same way, toward the Pennsylvania and Ohio German settlements of the early 1800s."
     ],
-    "sources": ["census-1880-henry", "census-1880-elias"]
+    "sources": [
+      "census-1880-henry",
+      "census-1880-elias"
+    ]
   },
   {
     "id": "carroll-county",
     "name": "Carroll County, Indiana",
     "region": "Indiana, United States",
     "span": "1850s to 1890s",
-    "matchers": ["Carroll", "Owasco", "Indiana"],
+    "matchers": [
+      "Carroll",
+      "Owasco",
+      "Indiana"
+    ],
     "summary": "Three Morkert households in one township, and the birthplace of two generations.",
     "paragraphs": [
       "Clay Township in Carroll County is where the Morkert side becomes visible. The 1880 census has three Morkert households there: Elias and Elizabeth, Henry and Mary with their young children, and Peter and Ida. Henry's household and Elias's are two sheets apart in the enumerator's book.",
       "Henry was born in Indiana about 1851 and Archibald about 1888, so two generations of this line began here. Elias is buried at Owasco, in the same county, in 1894.",
       "Earlier research placed the family in Parke and Fountain Counties instead. Morkerts were in Parke County, an Elias Morkert appears there in the 1850 census, but the direct line documented here runs through Carroll."
     ],
-    "sources": ["census-1880-henry", "census-1880-elias", "findagrave-elias", "census-1850-parke", "census-1880-joseph-c"]
+    "sources": [
+      "census-1880-henry",
+      "census-1880-elias",
+      "findagrave-elias",
+      "census-1850-parke",
+      "census-1880-joseph-c"
+    ]
   },
   {
     "id": "baldwin-county",
     "name": "Baldwin County, Alabama",
     "region": "Alabama, United States",
     "span": "about 1910",
-    "matchers": ["Baldwin", "Alabama", "Magnolia Springs", "Foley"],
+    "matchers": [
+      "Baldwin",
+      "Alabama",
+      "Magnolia Springs",
+      "Foley"
+    ],
     "summary": "A stop on the Gulf coast that nobody knew about.",
     "paragraphs": [
       "The 1910 census finds Henry N. Morkert, 59, his wife Mary, 53, and their son Archibald, 22 and single, at Foley and Magnolia Springs in Baldwin County, on the Alabama coast.",
       "This leg is missing from every earlier account of the family, which went straight from Indiana to North Dakota. Foley and Magnolia Springs were being promoted to northern farmers in exactly those years, which is the likeliest reason a family from Indiana turned up there.",
       "They did not stay. By 1917 Archibald was registering for the draft in North Dakota. Nothing has been found for the Alabama years beyond that single census page."
     ],
-    "sources": ["census-1910-alabama", "census-1910-henry"]
+    "sources": [
+      "census-1910-alabama",
+      "census-1910-henry"
+    ]
   },
   {
     "id": "leeds-nd",
     "name": "Leeds, North Dakota",
     "region": "Benson County, North Dakota, United States",
     "span": "1917 to 1950s",
-    "matchers": ["Leeds", "Benson", "North Dakota", "York,"],
+    "matchers": [
+      "Leeds",
+      "Benson",
+      "North Dakota",
+      "York,"
+    ],
     "summary": "Where the Morkerts farmed for three generations and where Porky was born.",
     "paragraphs": [
       "Leeds and the townships around it held this family for forty years. Archibald registered for the WWI draft in Benson County, farmed at Leeds through the 1930 and 1950 censuses, and registered again in 1942. His father Henry died at Leeds in 1933 and is buried there.",
       "Orris Leo Morkert, always called Porky, was born at Leeds on 12 April 1923 and registered for the draft in the same town at nineteen. His brothers and sisters, Helen, William and Clarence, were all born in North Dakota, and so was his mother Julia.",
       "This is also where the spelling falls apart. The 1930 census writes the family as Morhert at Leeds and Marbert at York, in the same county in the same year. Searching for Morkert finds neither."
     ],
-    "sources": ["census-1925-nd", "census-1930-morhert", "census-1930-york-henry", "wwi-draft-archie", "wwii-draft-archie", "wwii-draft-orris", "census-1950-archie", "findagrave-henry-newton"]
+    "sources": [
+      "census-1925-nd",
+      "census-1930-morhert",
+      "census-1930-york-henry",
+      "wwi-draft-archie",
+      "wwii-draft-archie",
+      "wwii-draft-orris",
+      "census-1950-archie",
+      "findagrave-henry-newton"
+    ]
   },
   {
     "id": "centerville",
     "name": "Centerville, Minnesota",
     "region": "Anoka County, Minnesota, United States",
     "span": "1855 to 1930s",
-    "matchers": ["Centerville", "Centreville", "Anoka"],
+    "matchers": [
+      "Centerville",
+      "Centreville",
+      "Anoka"
+    ],
     "summary": "The French-Canadian village where both sides of the Houle line landed.",
     "paragraphs": [
       "Centerville is a small Catholic village northeast of the Twin Cities, settled by French-Canadian families in the 1850s. Two branches of this tree are there.",
+      "The 1875 state census shows how concentrated it was. One Houle household holds three generations: Michel, seventy; his son John B., thirty-two, and John B.'s wife Virginia, both born in Lower Canada; and five children born since. Other Houle households sit around it in the same village.",
       "John B. Houle came from Canada as a boy, and his son John A. was born at Centerville in 1868. John B. died there in 1929, eighty-nine years old, having lived in the same village almost his whole life.",
       "The LaCasse side is there too. Cyrille and Delina Lacasse are heads of a household at Centerville in both the 1920 and 1930 censuses, and their daughter Blanche grew up there before marrying at Anoka in 1941.",
       "Both Houle marriages on this tree were performed at Anoka, the county seat, in 1914 and 1941."
     ],
-    "sources": ["mn-death-johnb-1929", "mn-burial-johnb-1929", "mn-death-johna-1942", "census-1920-blanche", "census-1930-blanche", "mn-marriage-1914", "mn-marriage-1941"]
+    "sources": [
+      "mn-death-johnb-1929",
+      "mn-burial-johnb-1929",
+      "mn-death-johna-1942",
+      "census-1920-blanche",
+      "census-1930-blanche",
+      "mn-marriage-1914",
+      "mn-marriage-1941"
+    ]
   },
   {
     "id": "forest-lake",
     "name": "Forest Lake, Minnesota",
     "region": "Washington County, Minnesota, United States",
     "span": "1920 to now",
-    "matchers": ["Forest Lake", "Washington County", "Washington,"],
+    "matchers": [
+      "Forest Lake",
+      "Washington County",
+      "Washington,"
+    ],
     "summary": "Where the Houles moved from Centerville, and where the two sides of this family met.",
     "paragraphs": [
       "The Houles crossed the county line from Centerville into Forest Lake in the 1910s. John J. Houle is there with Lydia and six children in the 1930 census, still there in 1940, and dies in Forest Lake Township in 1970. His father John A. died there in 1942.",
       "Lloyd Harry Houle spent nearly a century in this town, from about 1920 until his death in 2015, and is buried at Calvary Cemetery with Blanche.",
       "Orris Morkert brought the North Dakota side here after the Second World War, and died at 88 in 2011. That is how a farming family from Indiana by way of Alabama and North Dakota ended up marrying into a French-Canadian family from Quebec by way of Centerville."
     ],
-    "sources": ["census-1920-lloyd", "census-1930-lloyd", "census-1940-johnj", "census-1950-lloyd", "mn-death-johnj-1970", "mn-death-johna-1942", "obit-lloyd-2015", "findagrave-blanche", "obit-orris-2011"]
+    "sources": [
+      "census-1920-lloyd",
+      "census-1930-lloyd",
+      "census-1940-johnj",
+      "census-1950-lloyd",
+      "mn-death-johnj-1970",
+      "mn-death-johna-1942",
+      "obit-lloyd-2015",
+      "findagrave-blanche",
+      "obit-orris-2011"
+    ]
   },
   {
     "id": "scandia",
     "name": "Scandia and the east metro",
     "region": "Washington and Ramsey Counties, Minnesota, United States",
     "span": "1949 to now",
-    "matchers": ["Scandia", "Fridley", "Saint Paul", "St. Paul", "Ramsey", "Minnesota"],
+    "matchers": [
+      "Scandia",
+      "Fridley",
+      "Saint Paul",
+      "St. Paul",
+      "Ramsey",
+      "Minnesota"
+    ],
     "summary": "Where the living generations grew up.",
     "paragraphs": [
       "Rodney and Susan raised DeAnn, Kenneth and Joseph around Scandia, Minnesota's first Swedish settlement and a farming township north of Stillwater. St. Peter's Catholic Church in Forest Lake stayed the family's church.",
       "Joe Morkert was living in Fridley, across in Anoka County, when he died in 2003 at twenty-seven. Thomas Houle, three generations further back, had died in St. Paul in 1934.",
       "DeAnn's children were born in the 1990s, and the family's centre of gravity has stayed in this corner of Minnesota for four generations now."
     ],
-    "sources": ["mn-birth-deann-1969", "mn-birth-joseph-1975", "mn-death-thomas-1934"]
+    "sources": [
+      "mn-birth-deann-1969",
+      "mn-birth-joseph-1975",
+      "mn-death-thomas-1934"
+    ]
   }
 ]

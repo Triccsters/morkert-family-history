@@ -231,16 +231,18 @@
   },
   {
     "id": "evelyn-morkert-1922",
-    "name": "Evelyn Annetta Morkert",
+    "name": "Evelyn Anetta (Gunderson) Morkert",
     "birth": {
-      "date": "about 1922"
+      "date": "19 October 1922",
+      "place": "Harlow, Benson County, North Dakota"
     },
     "death": {
-      "date": "about 1998"
+      "date": "10 August 1998",
+      "place": "Minneapolis, Minnesota"
     },
-    "confidence": "probable",
+    "confidence": "record",
     "relation": "great-grandmother",
-    "line": "Morkert",
+    "line": "Gunderson",
     "spouses": [
       "orris-morkert-1923"
     ],
@@ -248,9 +250,17 @@
       "rodney-morkert"
     ],
     "sources": [
+      "numident-evelyn",
+      "mn-death-evelyn-1998",
+      "ssdi-evelyn-1998",
+      "findagrave-evelyn",
       "obit-orris-2011"
     ],
-    "notes": "Named simply as Evelyn, the wife, in her husband's 2011 obituary, which is the only record found for her so far. The fuller name and the dates come from earlier compiled research and are not yet verified. Her own parents are unknown."
+    "notes": "Born at Harlow in Benson County, twenty miles from Leeds, so she and Orris were both North Dakota farm children from the same county. Her Social Security file names her parents as Anton and Inga Gunderson, which puts a Norwegian line into a family that is otherwise German and French-Canadian. She is buried at Scandinavian Cemetery in Forest Lake.",
+    "parents": [
+      "anton-gunderson",
+      "inga-gunderson"
+    ]
   },
   {
     "id": "archibald-morkert-1888",
@@ -283,14 +293,14 @@
   },
   {
     "id": "julia-morkert-1889",
-    "name": "Julia B. Morkert",
+    "name": "Julia B. (Larson) Morkert",
     "birth": {
-      "date": "about 1889",
+      "date": "14 July 1888",
       "place": "North Dakota"
     },
     "confidence": "record",
     "relation": "2nd great-grandmother",
-    "line": "Morkert",
+    "line": "Larson",
     "spouses": [
       "archibald-morkert-1888"
     ],
@@ -298,9 +308,15 @@
       "orris-morkert-1923"
     ],
     "sources": [
-      "census-1930-morhert"
+      "census-1930-morhert",
+      "census-1925-julia",
+      "census-1950-julia",
+      "findagrave-julia"
     ],
-    "notes": "Born in North Dakota, which makes her the first person on this branch not born east of the Mississippi. Her maiden name is not proven. Earlier research says Larson, and Orris's obituary does name a sister Jean Larson and a brother-in-law Virgil Larson, but a sister marrying a Larson is not evidence about her mother's name."
+    "notes": "Born in North Dakota, which makes her the first person on this branch not born east of the Mississippi. She was still at Leeds with Archibald in the 1950 census. Her maiden name, Larson, comes from her Find a Grave memorial rather than from a register, so it is a strong lead rather than a proof. Her memorial also puts her burial at Woodbine, Jo Daviess County, Illinois and her death in Washington state, neither of which is explained by anything else found so far.",
+    "death": {
+      "date": "18 December 1958"
+    }
   },
   {
     "id": "henry-morkert-1851",
@@ -627,9 +643,10 @@
       "john-joseph-houle-1891"
     ],
     "sources": [
-      "mn-death-johna-1942"
+      "mn-death-johna-1942",
+      "census-1875-centerville"
     ],
-    "notes": "The first of this line born in America, at Centerville, the year after his parents' generation had settled there. He died at Forest Lake, where the family had moved."
+    "notes": "The first of this line born in America, at Centerville. He is six years old in the 1875 state census, in the household with his father, mother and grandfather. His brothers there are Philias, Theodore, Thomas and William; the eldest, Philias, was born in Michigan, which says the family stopped there on the way west."
   },
   {
     "id": "mathilda-letourneau",
@@ -652,8 +669,8 @@
     "id": "john-b-houle-1840",
     "name": "John B. Houle",
     "birth": {
-      "date": "1840",
-      "place": "Canada"
+      "date": "about 1842",
+      "place": "Lower Canada (Quebec)"
     },
     "death": {
       "date": "10 July 1929",
@@ -672,11 +689,12 @@
       "john-a-houle-1868"
     ],
     "sources": [
+      "census-1875-centerville",
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
       "mn-death-johna-1942"
     ],
-    "notes": "Born in Canada about 1840 and died at Centerville eighty-nine years later, which means he came as a boy and stayed in one place for the rest of his life. His death record names his father as Michael Houle and gives his mother as unknown."
+    "notes": "Born in Lower Canada and brought to Minnesota as a boy. The records give his birth year three different ways, 1840 and 1841 on his death record and 1843 on the 1875 census, which is normal for a man whose age was reported by other people all his life. In 1875 he is head of a household at Centerville with his wife Virginia, his father Michel, and five children. He died in the same village in 1929."
   },
   {
     "id": "virginia-tourville",
@@ -691,16 +709,22 @@
       "john-a-houle-1868"
     ],
     "sources": [
+      "census-1875-centerville",
       "mn-death-johna-1942",
       "mn-death-johnb-1929"
     ],
-    "notes": "Named as John A.'s mother on his death record and as John B.'s wife on his. Tourville is another Quebec surname."
+    "notes": "Aged 28 and born in Lower Canada in the 1875 census, so she came from Quebec as a child or young woman rather than being born in Minnesota. A Euphemie Tourville, 14, also born in Lower Canada, is in the same household, most likely her sister.",
+    "birth": {
+      "date": "about 1847",
+      "place": "Lower Canada (Quebec)"
+    }
   },
   {
     "id": "michel-houle",
     "name": "Michel \"Michael\" Houle",
     "birth": {
-      "place": "Canada"
+      "date": "about 1805",
+      "place": "Lower Canada (Quebec)"
     },
     "confidence": "record",
     "relation": "6th great-grandfather",
@@ -710,11 +734,13 @@
       "thomas-houle-1851"
     ],
     "sources": [
+      "census-1875-centerville",
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
       "mn-death-thomas-1934"
     ],
-    "notes": "The immigrant at the top of this line, named as the father on the death records of two of his sons, written Michael on one and Mitchell on the other. Earlier research describes a Michel Houle born in Quebec in 1806 who brought his younger children to Minnesota in 1855 and helped settle Centerville. The two sons' birth years, 1840 and 1851 in Canada, fit that story. Nothing here proves the dates or the Quebec parishes."
+    "notes": "Found in person. The 1875 Minnesota state census has him at Centerville, aged 70 and born in Lower Canada, living in his son John B.'s household with three generations around him. That puts his birth at about 1805, within a year of the 1806 the earlier research claimed, and it is the first record to place him rather than merely name him. His two sons' death records name him as the father, written Michael on one and Mitchell on the other. Nothing yet reaches his own parents or a Quebec parish.",
+    "spouses": []
   },
   {
     "id": "thomas-houle-1851",
@@ -737,5 +763,39 @@
       "mn-death-thomas-1934"
     ],
     "notes": "John B.'s younger brother, and the reason Michel can be named at all. His death record gives their father as Mitchell Houle and his own mother as Kadzi Tougon, which is a clerk's rendering of a French name, most likely Tougas. A different mother from John B. would mean two marriages."
+  },
+  {
+    "id": "anton-gunderson",
+    "name": "Anton Gunderson",
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "Gunderson",
+    "spouses": [
+      "inga-gunderson"
+    ],
+    "children": [
+      "evelyn-morkert-1922"
+    ],
+    "sources": [
+      "numident-evelyn"
+    ],
+    "notes": "Named on his daughter's Social Security file. The family was at Harlow in Benson County, North Dakota, where Evelyn was born in 1922. Gunderson is Norwegian, and nothing else about him has been found yet."
+  },
+  {
+    "id": "inga-gunderson",
+    "name": "Inga Gunderson",
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Gunderson",
+    "spouses": [
+      "anton-gunderson"
+    ],
+    "children": [
+      "evelyn-morkert-1922"
+    ],
+    "sources": [
+      "numident-evelyn"
+    ],
+    "notes": "Named on her daughter's Social Security file, with no surname given other than her married one. Inga is a Norwegian name, as is Anton."
   }
 ]
