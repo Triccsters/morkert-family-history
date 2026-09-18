@@ -93,6 +93,25 @@
     ]
   },
   {
+    "id": "blackduck",
+    "name": "Blackduck, Minnesota",
+    "region": "Beltrami County, Minnesota, United States",
+    "span": "about 1920",
+    "matchers": [
+      "Blackduck",
+      "Beltrami"
+    ],
+    "summary": "The missing leg between Alabama and North Dakota, and the family's first stop in Minnesota.",
+    "paragraphs": [
+      "The 1920 census finds Henry Markert, 68, and his wife Mary, 61, at Blackduck in Beltrami County, in the pine country north of Bemidji. They are not heading their own household: Henry is entered as the father of the head, his widowed son Gust, 37, and the three of them are in household 79 together with Gust's six children.",
+      "This is the leg nobody had. All six known children of Henry and Mary were born in Indiana, the youngest about 1888. The family was farming in Benson County, North Dakota by 1900, was in Baldwin County, Alabama in 1910, was here in 1920, and was back in Benson County by 1930. Minnesota had been missing from that path entirely.",
+      "Gust's children map the route on their own. Bessie, Leona and Mary were born in North Dakota, Henry and Levi in Alabama, and Ivy in Missouri in 1917. Missouri is a state the family is not otherwise known to have touched."
+    ],
+    "sources": [
+      "census-1920-blackduck-henry"
+    ]
+  },
+  {
     "id": "leeds-nd",
     "name": "Leeds, North Dakota",
     "region": "Benson County, North Dakota, United States",
