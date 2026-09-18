@@ -1,0 +1,168 @@
+[
+  {
+    "id": "crossing-quebec",
+    "title": "The Houles cross from Quebec to Minnesota",
+    "date": "about 1855",
+    "sortYear": 1855,
+    "place": "Quebec to Centerville",
+    "placeId": "quebec",
+    "confidence": "probable",
+    "summary": "The oldest move on this side of the family, and the one with the least paper behind it.",
+    "paragraphs": [
+      "Two facts anchor it. John B. Houle was born in Canada about 1840 and died at Centerville in 1929, having been there long enough that his son was born in the village in 1868. His younger brother Thomas was born in Canada about 1851 and died in St. Paul in 1934.",
+      "So a Houle family left Quebec somewhere between 1851 and 1868, with at least two boys, and settled at Centerville. Earlier research puts it in 1855, with a father, Michel, born in 1806 who had lost two wives and travelled with his younger children. The arithmetic fits. The record does not exist yet.",
+      "No passenger list, no border crossing, no Quebec parish register has been found. Both brothers' death records name the father but neither names a place in Canada."
+    ],
+    "people": ["michel-houle", "john-b-houle-1840", "thomas-houle-1851"],
+    "sources": ["mn-death-johnb-1929", "mn-death-thomas-1934"]
+  },
+  {
+    "id": "ohio-to-indiana",
+    "title": "The Morkerts move from Ohio into Indiana",
+    "date": "1820s to 1850s",
+    "sortYear": 1845,
+    "place": "Ohio to Carroll County, Indiana",
+    "placeId": "ohio",
+    "confidence": "probable",
+    "summary": "A move visible only in the birthplace column of one census page.",
+    "paragraphs": [
+      "Elias Morkert was born in Ohio about 1821 and Elizabeth in Ohio in 1828. By 1880 they are farming in Clay Township, Carroll County, Indiana, with sons born in Indiana. Henry Morkert, born in Indiana about 1851, gives both his parents as Ohio-born on the same census.",
+      "Elizabeth's parents are recorded as born in Pennsylvania, which sets the family's direction: Pennsylvania, then Ohio, then Indiana, the standard route for German-speaking farming families in those decades.",
+      "The surnames agree. Morkert is German or Alsatian; Burkhalter is Swiss German."
+    ],
+    "people": ["elias-morkert-1821", "elizabeth-burkhalter-1828", "henry-morkert-1851"],
+    "sources": ["census-1880-elias", "census-1880-henry"]
+  },
+  {
+    "id": "johnb-centerville",
+    "title": "John A. Houle is born at Centerville",
+    "date": "1868",
+    "sortYear": 1868,
+    "place": "Centerville, Anoka County, Minnesota",
+    "placeId": "centerville",
+    "confidence": "record",
+    "summary": "The first person on the Houle line born in America.",
+    "paragraphs": [
+      "His death record in 1942 gives the birthplace plainly: Centerville, Minnesota, in 1868, to John B. Houle and Virginia Tourville. That one line does two jobs. It names the generation above him, and it proves the family was settled in the village by then rather than still moving.",
+      "He died at Forest Lake Township seventy-four years later, about fifteen miles from where he was born."
+    ],
+    "people": ["john-a-houle-1868", "john-b-houle-1840", "virginia-tourville"],
+    "sources": ["mn-death-johna-1942"]
+  },
+  {
+    "id": "morkerts-to-alabama",
+    "title": "The Morkerts turn up in Alabama",
+    "date": "by 1910",
+    "sortYear": 1910,
+    "place": "Baldwin County, Alabama",
+    "placeId": "baldwin-county",
+    "confidence": "record",
+    "summary": "One census page, and a leg of the family's history nobody had.",
+    "paragraphs": [
+      "Henry N. Morkert, 59, Mary M., 53, and Archibald, 22, are enumerated at Foley and Magnolia Springs on the Alabama Gulf coast in 1910. The birthplaces on the same page hold the whole story of the family to that point: Henry born Indiana, Mary born Ohio, Archibald born Indiana.",
+      "Every earlier account of this family goes straight from Indiana to North Dakota. This page says they went south first.",
+      "Nothing explains why, and nothing yet says how long. Within seven years they were in North Dakota."
+    ],
+    "people": ["henry-morkert-1851", "mary-morkert-1857", "archibald-morkert-1888"],
+    "sources": ["census-1910-alabama", "census-1910-henry"]
+  },
+  {
+    "id": "morkerts-to-nd",
+    "title": "The Morkerts settle at Leeds, North Dakota",
+    "date": "1917 to 1950",
+    "sortYear": 1920,
+    "place": "Benson County, North Dakota",
+    "placeId": "leeds-nd",
+    "confidence": "record",
+    "summary": "Forty years in one county, and the longest stretch this family stayed anywhere.",
+    "paragraphs": [
+      "Archibald registered for the WWI draft in Benson County, was farming at Leeds with Julia and four children in 1930, registered again in 1942, and was still there in the 1950 census. His father Henry died at Leeds in 1933 and is buried there.",
+      "Julia was born in North Dakota, which means she was already local when they married. Their children, Helen, William, Clarence and Orris, were all born in the state.",
+      "This is where the surname fractures. The 1930 census writes the family as Morhert at Leeds and Marbert at York, the same county in the same year, which is why none of this was findable by searching for Morkert."
+    ],
+    "people": ["archibald-morkert-1888", "julia-morkert-1889", "orris-morkert-1923", "henry-morkert-1851"],
+    "sources": ["wwi-draft-archie", "census-1930-morhert", "census-1930-york-henry", "wwii-draft-archie", "census-1950-archie", "findagrave-henry-newton"]
+  },
+  {
+    "id": "marriage-1914",
+    "title": "John J. Houle marries Lydia Bernier",
+    "date": "13 May 1914",
+    "sortYear": 1914,
+    "place": "Anoka, Minnesota",
+    "placeId": "centerville",
+    "confidence": "record",
+    "summary": "The marriage that produced Lloyd, and the one that corrects the whole Houle line.",
+    "paragraphs": [
+      "She was seventeen or eighteen, he was twenty-two. Their son Lloyd was born three years later.",
+      "This record matters out of proportion to the wedding, because earlier research had Lloyd's father as a different man entirely, a David Houle born at Fort Ripley in 1884. The 1930 census puts Lloyd in John J. and Lydia's household at Forest Lake, and John J.'s own death record names his parents. David is not in this family.",
+      "Everything that used to hang off David, including a line back to Quebec, came off the tree with him. Michel Houle then came back by a different route."
+    ],
+    "people": ["john-joseph-houle-1891", "lydia-bernier-1896", "lloyd-houle-1917"],
+    "sources": ["mn-marriage-1914", "census-1930-lloyd", "mn-death-johnj-1970"]
+  },
+  {
+    "id": "marriage-1941",
+    "title": "Lloyd Houle marries Blanche LaCasse",
+    "date": "27 November 1941",
+    "sortYear": 1941,
+    "place": "Anoka, Minnesota",
+    "placeId": "centerville",
+    "confidence": "record",
+    "summary": "Two French-Canadian families from the same county, joined three weeks before Pearl Harbor.",
+    "paragraphs": [
+      "He was twenty-four and from Forest Lake; she was twenty-five and from Centerville. Their daughter Susan was born in February 1949 and appears as a one year old in the census the following spring.",
+      "They were married sixty-four years. Blanche died in 2007 and Lloyd in 2015 at ninety-eight, and they are buried together at Calvary Cemetery in Forest Lake."
+    ],
+    "people": ["lloyd-houle-1917", "blanche-lacasse-1916", "susan-houle-1949"],
+    "sources": ["mn-marriage-1941", "mn-birth-susan-1949", "census-1950-susan", "findagrave-blanche", "obit-lloyd-2015"]
+  },
+  {
+    "id": "morkerts-to-minnesota",
+    "title": "Orris brings the family to Minnesota",
+    "date": "after 1945",
+    "sortYear": 1948,
+    "place": "North Dakota to Forest Lake",
+    "placeId": "forest-lake",
+    "confidence": "probable",
+    "summary": "The move that put a North Dakota farming family in the same town as a Quebec one.",
+    "paragraphs": [
+      "Orris was born at Leeds in 1923 and died in Minnesota in 2011, and the Forest Lake area is where his obituary and his children place him. Exactly when he left North Dakota has not been documented here; earlier research says after the war, which fits a man who registered for the draft at nineteen in 1942.",
+      "Without this move there is no marriage between Rodney and Susan, and no family on either side of this site."
+    ],
+    "people": ["orris-morkert-1923", "evelyn-morkert-1922", "rodney-morkert"],
+    "sources": ["obit-orris-2011", "wwii-draft-orris"]
+  },
+  {
+    "id": "marriage-morkert-houle",
+    "title": "Rodney Morkert marries Susan Houle",
+    "date": "about 1968",
+    "sortYear": 1968,
+    "place": "Washington County, Minnesota",
+    "placeId": "forest-lake",
+    "confidence": "probable",
+    "summary": "The day the two halves of this site became one family.",
+    "paragraphs": [
+      "Everything above this on the Morkert side starts in Ohio and comes through Indiana, Alabama and North Dakota. Everything above it on the Houle side starts in Quebec and comes through Centerville. They meet here.",
+      "Three children followed: DeAnn in 1969, Kenneth, and Joseph in 1975. All three birth records name Rodney Leo Morkert and Susan Marie Houle as the parents, which is how the two lines are tied together on paper.",
+      "The marriage record itself has not been found yet, which is why this is marked as probable rather than proven. The date is inferred from DeAnn's birth in 1969."
+    ],
+    "people": ["rodney-morkert", "susan-houle-1949", "deann-morkert-1969"],
+    "sources": ["mn-birth-deann-1969", "mn-birth-kenneth", "mn-birth-joseph-1975"]
+  },
+  {
+    "id": "death-joe-2003",
+    "title": "Joe Morkert dies at twenty-seven",
+    "date": "20 April 2003",
+    "sortYear": 2003,
+    "place": "Fridley, Anoka County, Minnesota",
+    "placeId": "scandia",
+    "confidence": "record",
+    "summary": "The youngest death on this site, and the record that first mapped the family.",
+    "paragraphs": [
+      "DeAnn's younger brother, born 18 September 1975, died on 20 April 2003. He was living in Fridley and had grown up in Scandia. The funeral was at St. Peter's Catholic Church in Forest Lake.",
+      "His obituary is what listed three living generations in one place: parents Rodney and Susan, grandparents Orris, Evelyn, Lloyd and Blanche, his sister DeAnn and brother Kenneth, and four nieces and nephews. Almost everything anyone knew about this side of the family before now traced back to it."
+    ],
+    "people": ["joseph-morkert-1975", "rodney-morkert", "susan-houle-1949"],
+    "sources": ["mn-birth-joseph-1975"]
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "id": "tj-ricci",
+    "name": "T.J. Ricci",
+    "confidence": "family",
+    "living": true,
+    "relation": "me",
+    "line": "Ricci",
+    "parents": [
+      "deann-morkert-1969"
+    ],
+    "sources": [],
+    "notes": "Keeping this record. His middle name, Jeffrey, is for a cousin on his father's side."
+  },
+  {
+    "id": "anna-marie-ricci-1996",
+    "name": "Anna Marie Ricci",
+    "birth": {
+      "date": "1996"
+    },
+    "confidence": "family",
+    "living": true,
+    "relation": "sister",
+    "line": "Ricci",
+    "parents": [
+      "deann-morkert-1969"
+    ],
+    "sources": [],
+    "notes": "Named for her great-grandmother on the Ricci side."
+  },
+  {
+    "id": "jazlyn-morkert",
+    "name": "Jazlyn Morkert",
+    "confidence": "family",
+    "living": true,
+    "relation": "half-sister",
+    "line": "Morkert",
+    "halfSibling": true,
+    "parents": [
+      "deann-morkert-1969"
+    ],
+    "sources": [
+      "obit-orris-2011"
+    ],
+    "notes": "DeAnn's daughter, so T.J.'s half-sister on his mother's side. Named as one of Joe Morkert's nieces in 2003. Her father is not recorded here."
+  },
+  {
+    "id": "deann-morkert-1969",
+    "name": "DeAnn Adel Morkert",
+    "birth": {
+      "date": "1969",
+      "place": "Minnesota"
+    },
+    "confidence": "record",
+    "living": true,
+    "relation": "mother",
+    "line": "Morkert",
+    "parents": [
+      "rodney-morkert",
+      "susan-houle-1949"
+    ],
+    "children": [
+      "tj-ricci",
+      "anna-marie-ricci-1996",
+      "jazlyn-morkert"
+    ],
+    "sources": [
+      "mn-birth-deann-1969"
+    ],
+    "notes": "Her middle name, Adel, is for her grandmother Blanche Adele. She grew up around Scandia and Forest Lake."
+  },
+  {
+    "id": "rodney-morkert",
+    "name": "Rodney Leo Morkert",
+    "confidence": "record",
+    "living": true,
+    "relation": "grandfather",
+    "line": "Morkert",
+    "parents": [
+      "orris-morkert-1923",
+      "evelyn-morkert-1922"
+    ],
+    "spouses": [
+      "susan-houle-1949"
+    ],
+    "children": [
+      "deann-morkert-1969",
+      "kenneth-morkert",
+      "joseph-morkert-1975"
+    ],
+    "sources": [
+      "mn-birth-deann-1969",
+      "obit-orris-2011"
+    ],
+    "notes": "Named as a son in his father's 2011 obituary, and as the father on all three of his children's birth records. His middle name, Leo, is his father's."
+  },
+  {
+    "id": "susan-houle-1949",
+    "name": "Susan Marie (Houle) Morkert",
+    "birth": {
+      "date": "1949"
+    },
+    "confidence": "record",
+    "living": true,
+    "relation": "grandmother",
+    "line": "Houle",
+    "parents": [
+      "lloyd-houle-1917",
+      "blanche-lacasse-1916"
+    ],
+    "spouses": [
+      "rodney-morkert"
+    ],
+    "children": [
+      "deann-morkert-1969",
+      "kenneth-morkert",
+      "joseph-morkert-1975"
+    ],
+    "sources": [
+      "mn-birth-susan-1949",
+      "census-1950-susan",
+      "obit-orris-2011"
+    ],
+    "notes": "Born 10 February 1949 and appears as a one year old in the 1950 census at Forest Lake Township. Named as a daughter-in-law in Orris Morkert's obituary."
+  },
+  {
+    "id": "kenneth-morkert",
+    "name": "Kenneth Leo Morkert",
+    "confidence": "record",
+    "living": true,
+    "relation": "uncle",
+    "line": "Morkert",
+    "parents": [
+      "rodney-morkert",
+      "susan-houle-1949"
+    ],
+    "spouses": [
+      "rebecca-morkert"
+    ],
+    "children": [
+      "olivia-morkert"
+    ],
+    "sources": [
+      "mn-birth-kenneth"
+    ],
+    "notes": "Lives in the Scandia and Forest Lake area."
+  },
+  {
+    "id": "rebecca-morkert",
+    "name": "Rebecca Morkert",
+    "confidence": "family",
+    "living": true,
+    "relation": "aunt by marriage",
+    "line": "Morkert",
+    "spouses": [
+      "kenneth-morkert"
+    ],
+    "children": [
+      "olivia-morkert"
+    ],
+    "sources": [],
+    "notes": "Kenneth's wife."
+  },
+  {
+    "id": "olivia-morkert",
+    "name": "Olivia Morkert",
+    "confidence": "probable",
+    "living": true,
+    "relation": "cousin",
+    "line": "Morkert",
+    "parents": [
+      "kenneth-morkert",
+      "rebecca-morkert"
+    ],
+    "sources": [],
+    "notes": "Named as one of Joe Morkert's four nieces and nephews in 2003. The other three are DeAnn's children, which leaves Olivia as Kenneth's. The surname is assumed rather than recorded."
+  },
+  {
+    "id": "joseph-morkert-1975",
+    "name": "Joseph Robert \"Joe\" Morkert",
+    "birth": {
+      "date": "18 September 1975"
+    },
+    "death": {
+      "date": "20 April 2003",
+      "place": "Fridley, Anoka County, Minnesota"
+    },
+    "confidence": "record",
+    "relation": "uncle",
+    "line": "Morkert",
+    "parents": [
+      "rodney-morkert",
+      "susan-houle-1949"
+    ],
+    "sources": [
+      "mn-birth-joseph-1975"
+    ],
+    "notes": "DeAnn's younger brother. He died at 27, living in Fridley and formerly of Scandia. The funeral was at St. Peter's Catholic Church in Forest Lake."
+  },
+  {
+    "id": "orris-morkert-1923",
+    "name": "Orris Leo \"Porky\" Morkert",
+    "birth": {
+      "date": "12 April 1923",
+      "place": "Leeds, Benson County, North Dakota"
+    },
+    "death": {
+      "date": "23 October 2011",
+      "place": "Minnesota"
+    },
+    "confidence": "record",
+    "relation": "great-grandfather",
+    "line": "Morkert",
+    "parents": [
+      "archibald-morkert-1888",
+      "julia-morkert-1889"
+    ],
+    "spouses": [
+      "evelyn-morkert-1922"
+    ],
+    "children": [
+      "rodney-morkert"
+    ],
+    "sources": [
+      "wwii-draft-orris",
+      "obit-orris-2011",
+      "census-1925-nd",
+      "census-1930-morhert"
+    ],
+    "notes": "Born on a farm at Leeds in North Dakota and known all his life as Porky. He registered for the draft at Leeds in June 1942, and moved to Minnesota after the war, settling around Forest Lake. His obituary names four children: Katherine Swingle, Rodney, Paulette Paumen and Richard."
+  },
+  {
+    "id": "evelyn-morkert-1922",
+    "name": "Evelyn Annetta Morkert",
+    "birth": {
+      "date": "about 1922"
+    },
+    "death": {
+      "date": "about 1998"
+    },
+    "confidence": "probable",
+    "relation": "great-grandmother",
+    "line": "Morkert",
+    "spouses": [
+      "orris-morkert-1923"
+    ],
+    "children": [
+      "rodney-morkert"
+    ],
+    "sources": [
+      "obit-orris-2011"
+    ],
+    "notes": "Named simply as Evelyn, the wife, in her husband's 2011 obituary, which is the only record found for her so far. The fuller name and the dates come from earlier compiled research and are not yet verified. Her own parents are unknown."
+  },
+  {
+    "id": "archibald-morkert-1888",
+    "name": "Archibald Monroe \"Archie\" Morkert",
+    "birth": {
+      "date": "about 1888",
+      "place": "Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-grandfather",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "spouses": [
+      "julia-morkert-1889"
+    ],
+    "children": [
+      "orris-morkert-1923"
+    ],
+    "sources": [
+      "census-1910-alabama",
+      "census-1930-morhert",
+      "wwi-draft-archie",
+      "wwii-draft-archie",
+      "census-1950-archie"
+    ],
+    "notes": "Born in Indiana, a young single man in Alabama in 1910, and a farmer at Leeds in North Dakota from at least 1917 until 1950. He carried the family through three states in one lifetime."
+  },
+  {
+    "id": "julia-morkert-1889",
+    "name": "Julia B. Morkert",
+    "birth": {
+      "date": "about 1889",
+      "place": "North Dakota"
+    },
+    "confidence": "record",
+    "relation": "2nd great-grandmother",
+    "line": "Morkert",
+    "spouses": [
+      "archibald-morkert-1888"
+    ],
+    "children": [
+      "orris-morkert-1923"
+    ],
+    "sources": [
+      "census-1930-morhert"
+    ],
+    "notes": "Born in North Dakota, which makes her the first person on this branch not born east of the Mississippi. Her maiden name is not proven. Earlier research says Larson, and Orris's obituary does name a sister Jean Larson and a brother-in-law Virgil Larson, but a sister marrying a Larson is not evidence about her mother's name."
+  },
+  {
+    "id": "henry-morkert-1851",
+    "name": "Henry Newton Morkert",
+    "birth": {
+      "date": "1851",
+      "place": "Indiana"
+    },
+    "death": {
+      "date": "1933",
+      "place": "Leeds, Benson County, North Dakota"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "Morkert",
+    "parents": [
+      "elias-morkert-1821",
+      "elizabeth-burkhalter-1828"
+    ],
+    "spouses": [
+      "mary-morkert-1857"
+    ],
+    "children": [
+      "archibald-morkert-1888",
+      "joseph-c-morkert-1878"
+    ],
+    "sources": [
+      "census-1880-henry",
+      "census-1910-henry",
+      "census-1930-york-henry",
+      "findagrave-henry-newton"
+    ],
+    "notes": "A farmer at 28 in Carroll County, Indiana in 1880, in Baldwin County, Alabama by 1910, and in Benson County, North Dakota by 1930. His census entry in 1880 gives both of his own parents as born in Ohio, which is what points to Elias and Elizabeth."
+  },
+  {
+    "id": "mary-morkert-1857",
+    "name": "Mary M. Morkert",
+    "birth": {
+      "date": "about 1857",
+      "place": "Ohio"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Morkert",
+    "spouses": [
+      "henry-morkert-1851"
+    ],
+    "children": [
+      "archibald-morkert-1888",
+      "joseph-c-morkert-1878"
+    ],
+    "sources": [
+      "census-1910-alabama",
+      "census-1930-york-henry",
+      "teton-huffman-1959"
+    ],
+    "notes": "Born in Ohio and with Henry in Indiana, Alabama and North Dakota. Her maiden name is probably Thompson: a daughter's 1959 death record in Montana names her parents as Henry Morkert and Mary Thompson. One record is not proof."
+  },
+  {
+    "id": "joseph-c-morkert-1878",
+    "name": "Joseph C. Morkert",
+    "birth": {
+      "date": "1878",
+      "place": "Indiana"
+    },
+    "confidence": "record",
+    "relation": "2nd great-granduncle",
+    "line": "Morkert",
+    "parents": [
+      "henry-morkert-1851",
+      "mary-morkert-1857"
+    ],
+    "sources": [
+      "census-1880-joseph-c"
+    ],
+    "notes": "Archie's older brother, two years old in the 1880 census. He went to North Dakota too, and earlier research has him prominent in Leeds."
+  },
+  {
+    "id": "elias-morkert-1821",
+    "name": "Elias Silas Morkert",
+    "birth": {
+      "date": "21 February 1821",
+      "place": "Ohio"
+    },
+    "death": {
+      "date": "31 January 1894",
+      "place": "Owasco, Carroll County, Indiana"
+    },
+    "confidence": "probable",
+    "relation": "4th great-grandfather",
+    "line": "Morkert",
+    "spouses": [
+      "elizabeth-burkhalter-1828"
+    ],
+    "children": [
+      "henry-morkert-1851"
+    ],
+    "sources": [
+      "census-1880-elias",
+      "findagrave-elias"
+    ],
+    "notes": "Born in Ohio and farming in Clay Township, Carroll County, Indiana by 1880, two households from Henry. The link to Henry is not proven: it rests on the same township, the same surname, the right ages and the Ohio birthplaces that Henry's own census entry gives for his parents. What would settle it is Henry in this household in the 1860 or 1870 census, or Henry's 1933 death record."
+  },
+  {
+    "id": "elizabeth-burkhalter-1828",
+    "name": "Elizabeth (Burkhalter) Morkert",
+    "birth": {
+      "date": "1828",
+      "place": "Ohio"
+    },
+    "confidence": "probable",
+    "relation": "4th great-grandmother",
+    "line": "Burkhalter",
+    "spouses": [
+      "elias-morkert-1821"
+    ],
+    "children": [
+      "henry-morkert-1851"
+    ],
+    "sources": [
+      "census-1880-elias"
+    ],
+    "notes": "Born in Ohio to parents born in Pennsylvania. The surname comes from FamilySearch's own linking of this census entry to an Indiana marriage record, so it is a lead rather than a reading of the register itself. Burkhalter is Swiss German."
+  },
+  {
+    "id": "lloyd-houle-1917",
+    "name": "Lloyd Harry Houle",
+    "birth": {
+      "date": "14 January 1917",
+      "place": "Minnesota"
+    },
+    "death": {
+      "date": "29 April 2015"
+    },
+    "confidence": "record",
+    "relation": "2nd great-grandfather",
+    "line": "Houle",
+    "parents": [
+      "john-joseph-houle-1891",
+      "lydia-bernier-1896"
+    ],
+    "spouses": [
+      "blanche-lacasse-1916"
+    ],
+    "children": [
+      "susan-houle-1949"
+    ],
+    "marriage": {
+      "date": "27 November 1941",
+      "place": "Anoka, Minnesota",
+      "spouse": "blanche-lacasse-1916"
+    },
+    "sources": [
+      "obit-lloyd-2015",
+      "census-1920-lloyd",
+      "census-1930-lloyd",
+      "mn-marriage-1941",
+      "census-1950-lloyd",
+      "findagrave-lloyd"
+    ],
+    "notes": "He lived to 98 and spent nearly all of it in Forest Lake. He is buried at Calvary Cemetery there, although one index mis-maps the burial to a Calvary Cemetery in Washington County, Pennsylvania."
+  },
+  {
+    "id": "blanche-lacasse-1916",
+    "name": "Blanche Adele (LaCasse) Houle",
+    "birth": {
+      "date": "28 April 1916",
+      "place": "Minnesota"
+    },
+    "death": {
+      "date": "7 December 2007"
+    },
+    "confidence": "record",
+    "relation": "2nd great-grandmother",
+    "line": "LaCasse",
+    "parents": [
+      "cyrille-lacasse",
+      "delina-lacasse"
+    ],
+    "spouses": [
+      "lloyd-houle-1917"
+    ],
+    "children": [
+      "susan-houle-1949"
+    ],
+    "marriage": {
+      "date": "27 November 1941",
+      "place": "Anoka, Minnesota",
+      "spouse": "lloyd-houle-1917"
+    },
+    "sources": [
+      "findagrave-blanche",
+      "census-1920-blanche",
+      "census-1930-blanche",
+      "mn-marriage-1941",
+      "mn-birth-susan-1949"
+    ],
+    "notes": "Grew up in Centerville and married at Anoka in 1941. Her granddaughter DeAnn carries her middle name."
+  },
+  {
+    "id": "cyrille-lacasse",
+    "name": "Cyrille Lacasse",
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "LaCasse",
+    "spouses": [
+      "delina-lacasse"
+    ],
+    "children": [
+      "blanche-lacasse-1916"
+    ],
+    "sources": [
+      "census-1920-blanche",
+      "census-1930-blanche"
+    ],
+    "notes": "Head of a Lacasse household in Centerville, Anoka County in both 1920 and 1930, written Cyrille in one census and Cyril in the other. Earlier research gives him the middle name Joseph and a birth at Centerville in 1888, neither yet verified here."
+  },
+  {
+    "id": "delina-lacasse",
+    "name": "Delina Lacasse",
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "LaCasse",
+    "spouses": [
+      "cyrille-lacasse"
+    ],
+    "children": [
+      "blanche-lacasse-1916"
+    ],
+    "sources": [
+      "census-1920-blanche",
+      "census-1930-blanche"
+    ],
+    "notes": "Named in the same two censuses. Earlier research gives her maiden name as LaMotte, which is not proven."
+  },
+  {
+    "id": "john-joseph-houle-1891",
+    "name": "John Joseph Houle",
+    "birth": {
+      "date": "1891"
+    },
+    "death": {
+      "date": "3 March 1970",
+      "place": "Forest Lake Township, Washington County, Minnesota"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "Houle",
+    "parents": [
+      "john-a-houle-1868",
+      "mathilda-letourneau"
+    ],
+    "spouses": [
+      "lydia-bernier-1896"
+    ],
+    "children": [
+      "lloyd-houle-1917"
+    ],
+    "marriage": {
+      "date": "13 May 1914",
+      "place": "Anoka, Minnesota",
+      "spouse": "lydia-bernier-1896"
+    },
+    "sources": [
+      "mn-death-johnj-1970",
+      "mn-marriage-1914",
+      "census-1930-lloyd",
+      "census-1940-johnj"
+    ],
+    "notes": "He is the correction at the heart of this site. Earlier research had Lloyd's father as a David Houle born at Fort Ripley. The 1930 census and his own death record say otherwise: Lloyd was his son, and his own parents were John A. Houle and Mathilda Letourneau."
+  },
+  {
+    "id": "lydia-bernier-1896",
+    "name": "Lydia B. (Bernier) Houle",
+    "birth": {
+      "date": "1896"
+    },
+    "death": {
+      "date": "1982"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Bernier",
+    "spouses": [
+      "john-joseph-houle-1891"
+    ],
+    "children": [
+      "lloyd-houle-1917"
+    ],
+    "marriage": {
+      "date": "13 May 1914",
+      "place": "Anoka, Minnesota",
+      "spouse": "john-joseph-houle-1891"
+    },
+    "sources": [
+      "mn-marriage-1914",
+      "census-1930-lloyd",
+      "census-1940-johnj"
+    ],
+    "notes": "She married at eighteen and appears with the family in the 1930 and 1940 censuses. Bernier is a surname new to this tree."
+  },
+  {
+    "id": "john-a-houle-1868",
+    "name": "John A. Houle",
+    "birth": {
+      "date": "1868",
+      "place": "Centerville, Anoka County, Minnesota"
+    },
+    "death": {
+      "date": "27 September 1942",
+      "place": "Forest Lake Township, Washington County, Minnesota"
+    },
+    "confidence": "record",
+    "relation": "4th great-grandfather",
+    "line": "Houle",
+    "parents": [
+      "john-b-houle-1840",
+      "virginia-tourville"
+    ],
+    "spouses": [
+      "mathilda-letourneau"
+    ],
+    "children": [
+      "john-joseph-houle-1891"
+    ],
+    "sources": [
+      "mn-death-johna-1942"
+    ],
+    "notes": "The first of this line born in America, at Centerville, the year after his parents' generation had settled there. He died at Forest Lake, where the family had moved."
+  },
+  {
+    "id": "mathilda-letourneau",
+    "name": "Mathilda (Letourneau) Houle",
+    "confidence": "record",
+    "relation": "4th great-grandmother",
+    "line": "Letourneau",
+    "spouses": [
+      "john-a-houle-1868"
+    ],
+    "children": [
+      "john-joseph-houle-1891"
+    ],
+    "sources": [
+      "mn-death-johnj-1970"
+    ],
+    "notes": "Named as the mother on her son's 1970 death record. Nothing else about her has been found yet, not even a birth year."
+  },
+  {
+    "id": "john-b-houle-1840",
+    "name": "John B. Houle",
+    "birth": {
+      "date": "1840",
+      "place": "Canada"
+    },
+    "death": {
+      "date": "10 July 1929",
+      "place": "Centerville, Anoka County, Minnesota"
+    },
+    "confidence": "record",
+    "relation": "5th great-grandfather",
+    "line": "Houle",
+    "parents": [
+      "michel-houle"
+    ],
+    "spouses": [
+      "virginia-tourville"
+    ],
+    "children": [
+      "john-a-houle-1868"
+    ],
+    "sources": [
+      "mn-death-johnb-1929",
+      "mn-burial-johnb-1929",
+      "mn-death-johna-1942"
+    ],
+    "notes": "Born in Canada about 1840 and died at Centerville eighty-nine years later, which means he came as a boy and stayed in one place for the rest of his life. His death record names his father as Michael Houle and gives his mother as unknown."
+  },
+  {
+    "id": "virginia-tourville",
+    "name": "Virginia (Tourville) Houle",
+    "confidence": "record",
+    "relation": "5th great-grandmother",
+    "line": "Tourville",
+    "spouses": [
+      "john-b-houle-1840"
+    ],
+    "children": [
+      "john-a-houle-1868"
+    ],
+    "sources": [
+      "mn-death-johna-1942",
+      "mn-death-johnb-1929"
+    ],
+    "notes": "Named as John A.'s mother on his death record and as John B.'s wife on his. Tourville is another Quebec surname."
+  },
+  {
+    "id": "michel-houle",
+    "name": "Michel \"Michael\" Houle",
+    "birth": {
+      "place": "Canada"
+    },
+    "confidence": "record",
+    "relation": "6th great-grandfather",
+    "line": "Houle",
+    "children": [
+      "john-b-houle-1840",
+      "thomas-houle-1851"
+    ],
+    "sources": [
+      "mn-death-johnb-1929",
+      "mn-burial-johnb-1929",
+      "mn-death-thomas-1934"
+    ],
+    "notes": "The immigrant at the top of this line, named as the father on the death records of two of his sons, written Michael on one and Mitchell on the other. Earlier research describes a Michel Houle born in Quebec in 1806 who brought his younger children to Minnesota in 1855 and helped settle Centerville. The two sons' birth years, 1840 and 1851 in Canada, fit that story. Nothing here proves the dates or the Quebec parishes."
+  },
+  {
+    "id": "thomas-houle-1851",
+    "name": "Thomas Houle",
+    "birth": {
+      "date": "about 1851",
+      "place": "Canada"
+    },
+    "death": {
+      "date": "30 January 1934",
+      "place": "Saint Paul, Ramsey County, Minnesota"
+    },
+    "confidence": "record",
+    "relation": "5th great-granduncle",
+    "line": "Houle",
+    "parents": [
+      "michel-houle"
+    ],
+    "sources": [
+      "mn-death-thomas-1934"
+    ],
+    "notes": "John B.'s younger brother, and the reason Michel can be named at all. His death record gives their father as Mitchell Houle and his own mother as Kadzi Tougon, which is a clerk's rendering of a French name, most likely Tougas. A different mother from John B. would mean two marriages."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "claim": "Lloyd Harry Houle's father was David Houle, born 1884 at Fort Ripley",
+    "where": "AI-assisted research, 2025 and 2026, and the person notes built from it",
+    "verdict": "wrong",
+    "correction": "Lloyd appears in the 1930 census at Forest Lake as the thirteen year old son of John J. Houle, 38, and Lydia, 33. John J.'s own death record in 1970 names his parents as John A. Houle and Mathilda Letourneau. There is no David in this line.",
+    "sources": [
+      "census-1930-lloyd",
+      "mn-death-johnj-1970"
+    ]
+  },
+  {
+    "claim": "Honore Houle, Sarah Doucette, Genevieve Cartier and David Houle are direct ancestors",
+    "where": "The same research",
+    "verdict": "wrong",
+    "correction": "Every one of them hung off David Houle. With David out of the line, none of them has any documented connection to this family. The line above Lloyd runs John Joseph, John A., John B., then Michel.",
+    "sources": [
+      "mn-death-johnj-1970",
+      "mn-death-johna-1942",
+      "mn-death-johnb-1929"
+    ]
+  },
+  {
+    "claim": "Samuel Morkert, born 1839 in Parke County, Indiana, was DeAnn's second great-grandfather",
+    "where": "The same research",
+    "verdict": "wrong",
+    "correction": "Archibald Monroe Morkert's father was Henry Newton Morkert, born 1851 in Indiana, named in the 1910 census household in Baldwin County, Alabama. Samuel has no documented place in this line.",
+    "sources": [
+      "census-1910-alabama",
+      "findagrave-henry-newton"
+    ]
+  },
+  {
+    "claim": "John Lewis Morkert and Catherine Kachelriess are third great-grandparents",
+    "where": "The same research",
+    "verdict": "unproven",
+    "correction": "They were reached through Samuel, who is not in the line. The fourth great-grandparents are probably Elias Silas Morkert and Elizabeth Burkhalter of Carroll County, on the evidence of the 1880 census. That is a probable match, not a proof.",
+    "sources": [
+      "census-1880-elias",
+      "census-1880-henry"
+    ]
+  },
+  {
+    "claim": "The Morkerts settled in Parke and Fountain Counties, Indiana",
+    "where": "The same research",
+    "verdict": "partly wrong",
+    "correction": "Morkerts were in Parke County, and an Elias Morkert appears there in the 1850 census. The documented direct line, though, is in Clay Township, Carroll County, where three Morkert households sit in the 1880 census.",
+    "sources": [
+      "census-1850-parke",
+      "census-1880-elias",
+      "census-1880-henry"
+    ]
+  },
+  {
+    "claim": "Michel Houle, a founding settler of Centerville, is an ancestor",
+    "where": "The same research",
+    "verdict": "right, by a different route",
+    "correction": "He is an ancestor, but not through David Houle. John B. Houle's 1929 death record names his father as Michael Houle, and John B. is Lloyd's great-grandfather. The claim survived the collapse of the path that produced it.",
+    "sources": [
+      "mn-death-johnb-1929",
+      "mn-death-thomas-1934"
+    ]
+  },
+  {
+    "claim": "Tyler and Olivia are Kenneth Morkert's children",
+    "where": "Person notes in the Obsidian vault, May 2026",
+    "verdict": "wrong",
+    "correction": "Joe Morkert's 2003 obituary names four nieces and nephews: Tyler, Anna, Jazlyn and Olivia. Tyler is T.J. himself. Three of the four are DeAnn's, which leaves Olivia as Kenneth's.",
+    "sources": []
+  },
+  {
+    "claim": "The Morkerts went from Indiana straight to North Dakota",
+    "where": "Every earlier account of the family",
+    "verdict": "wrong",
+    "correction": "The 1910 census places Henry, Mary and Archibald at Foley and Magnolia Springs in Baldwin County, Alabama. The route was Ohio, Indiana, Alabama, North Dakota, then Minnesota.",
+    "sources": [
+      "census-1910-alabama"
+    ]
+  }
+]

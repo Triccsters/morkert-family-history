@@ -1,0 +1,36 @@
+graph TD
+  MH["Michel Houle<br/>b. Canada"] --> JB["John B. Houle<br/>1840 Canada to 1929"]
+  VT["Virginia Tourville"] --> JA
+  JB --> JA["John A. Houle<br/>1868 Centerville to 1942"]
+  ML["Mathilda Letourneau"] --> JJ
+  JA --> JJ["John Joseph Houle<br/>1891 to 1970"]
+  LB["Lydia B. Bernier<br/>1896 to 1982"] --> LH
+  JJ --> LH["Lloyd Harry Houle<br/>1917 to 2015"]
+  BL["Blanche Adele LaCasse<br/>1916 to 2007"] --> SH
+  CL["Cyrille Lacasse"] --> BL
+  DL["Delina Lacasse"] --> BL
+  LH --> SH["Susan Marie Houle<br/>b. 1949"]
+
+  EM["Elias Silas Morkert<br/>1821 Ohio to 1894"] --> HM
+  EB["Elizabeth Burkhalter<br/>b. 1828 Ohio"] --> HM
+  HM["Henry Newton Morkert<br/>1851 Indiana to 1933"] --> AM
+  MM["Mary M. Morkert<br/>b. abt 1857 Ohio"] --> AM
+  AM["Archibald Monroe Morkert<br/>b. abt 1888 Indiana"] --> OM
+  JM["Julia B. Morkert<br/>b. abt 1889 N. Dakota"] --> OM
+  OM["Orris Leo Morkert<br/>1923 Leeds to 2011"] --> RM
+  EV["Evelyn Annetta Morkert<br/>abt 1922 to abt 1998"] --> RM
+  RM["Rodney Leo Morkert<br/>living"] --> DM
+  SH --> DM["DeAnn Adel Morkert<br/>b. 1969"]
+  DM --> TJ["T.J. Ricci"]
+  DM --> AN["Anna Marie Ricci<br/>b. 1996"]
+  DM --> JZ["Jazlyn Morkert"]
+  RM --> KM["Kenneth Leo Morkert<br/>living"]
+  RM --> JO["Joseph Robert Morkert<br/>1975 to 2003"]
+
+  classDef rec fill:#1e8449,color:#ffffff,stroke:#145a32
+  classDef prob fill:#8e44ad,color:#ffffff,stroke:#5b2c6f
+  classDef fam fill:#2471a3,color:#ffffff,stroke:#154360
+  class MH,JB,JA,JJ,LH,SH,VT,ML,LB,BL,CL,DL rec
+  class HM,MM,AM,JM,OM,RM,DM,JO rec
+  class EM,EB,EV prob
+  class TJ,AN,JZ,KM fam
