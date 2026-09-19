@@ -562,7 +562,7 @@
       "date": "29 April 2015"
     },
     "confidence": "record",
-    "relation": "2nd great-grandfather",
+    "relation": "great-grandfather",
     "line": "Houle",
     "parents": [
       "john-joseph-houle-1891",
@@ -600,7 +600,7 @@
       "date": "7 December 2007"
     },
     "confidence": "record",
-    "relation": "2nd great-grandmother",
+    "relation": "great-grandmother",
     "line": "LaCasse",
     "parents": [
       "cyrille-lacasse",
@@ -630,7 +630,7 @@
     "id": "cyrille-lacasse",
     "name": "Cyrille Lacasse",
     "confidence": "record",
-    "relation": "3rd great-grandfather",
+    "relation": "2nd great-grandfather",
     "line": "LaCasse",
     "spouses": [
       "delina-lacasse"
@@ -648,7 +648,7 @@
     "id": "delina-lacasse",
     "name": "Delina Lacasse",
     "confidence": "record",
-    "relation": "3rd great-grandmother",
+    "relation": "2nd great-grandmother",
     "line": "LaCasse",
     "spouses": [
       "cyrille-lacasse"
@@ -674,7 +674,7 @@
       "place": "Forest Lake Township, Washington County, Minnesota"
     },
     "confidence": "record",
-    "relation": "3rd great-grandfather",
+    "relation": "2nd great-grandfather",
     "line": "Houle",
     "parents": [
       "john-a-houle-1868",
@@ -710,7 +710,7 @@
       "date": "1982"
     },
     "confidence": "record",
-    "relation": "3rd great-grandmother",
+    "relation": "2nd great-grandmother",
     "line": "Bernier",
     "spouses": [
       "john-joseph-houle-1891"
@@ -742,7 +742,7 @@
       "place": "Forest Lake Township, Washington County, Minnesota"
     },
     "confidence": "record",
-    "relation": "4th great-grandfather",
+    "relation": "3rd great-grandfather",
     "line": "Houle",
     "parents": [
       "john-b-houle-1840",
@@ -770,7 +770,7 @@
     "id": "mathilda-letourneau",
     "name": "Mathilda (Letourneau) Houle",
     "confidence": "record",
-    "relation": "4th great-grandmother",
+    "relation": "3rd great-grandmother",
     "line": "Letourneau",
     "spouses": [
       "john-a-houle-1868"
@@ -801,7 +801,7 @@
       "place": "Centerville, Anoka County, Minnesota"
     },
     "confidence": "record",
-    "relation": "5th great-grandfather",
+    "relation": "4th great-grandfather",
     "line": "Houle",
     "parents": [
       "michel-houle"
@@ -831,7 +831,7 @@
     "id": "virginia-tourville",
     "name": "Virginia (Tourville) Houle",
     "confidence": "record",
-    "relation": "5th great-grandmother",
+    "relation": "4th great-grandmother",
     "line": "Tourville",
     "spouses": [
       "john-b-houle-1840"
@@ -864,7 +864,7 @@
       "place": "Lower Canada (Quebec)"
     },
     "confidence": "record",
-    "relation": "6th great-grandfather",
+    "relation": "5th great-grandfather",
     "line": "Houle",
     "children": [
       "john-b-houle-1840",
@@ -932,7 +932,7 @@
     "id": "anton-gunderson",
     "name": "Anton Gunderson",
     "confidence": "record",
-    "relation": "3rd great-grandfather",
+    "relation": "2nd great-grandfather",
     "line": "Gunderson",
     "spouses": [
       "inga-gunderson"
@@ -949,7 +949,7 @@
     "id": "inga-gunderson",
     "name": "Inga Gunderson",
     "confidence": "record",
-    "relation": "3rd great-grandmother",
+    "relation": "2nd great-grandmother",
     "line": "Gunderson",
     "spouses": [
       "anton-gunderson"
