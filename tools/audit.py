@@ -66,7 +66,10 @@ def main(argv):
         if p.get('confidence') not in ('record', 'probable'):
             continue
         sids = p.get('sources', [])
-        blob = ' '.join((S.get(i, {}).get('proves') or '') for i in sids)
+        # title as well as proves: a marriage source often carries its date
+        # only in the title, and reading proves alone reports it as unsourced.
+        blob = ' '.join(((S.get(i, {}).get('proves') or '') + ' ' +
+                         (S.get(i, {}).get('title') or '')) for i in sids)
         years_in_sources = set(YEAR.findall(blob))
         for ev in ('birth', 'death', 'marriage'):
             b = p.get(ev)
@@ -85,6 +88,19 @@ def main(argv):
     for i in orphan:
         print('   %s' % i)
     print('   %d' % len(orphan))
+
+    print('\n4b. sources without a direct record permalink')
+    print('    (project rule: a direct record permalink, not a search URL)')
+    bad = []
+    for s in sources:
+        u = (s.get('url') or '').strip()
+        if not u:
+            bad.append((s['id'], 'NO URL'))
+        elif '/search/' in u or '?q.' in u or '&q.' in u:
+            bad.append((s['id'], 'search URL'))
+    for i, why in bad:
+        print('   %-42s %s' % (i, why))
+    print('   %d of %d' % (len(bad), len(sources)))
 
     print('\n5. dangling source references')
     n = 0
