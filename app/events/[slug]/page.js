@@ -89,9 +89,13 @@ export default async function EventPage({ params }) {
             {eventSources.map((s) => (
               <tr key={s.id}>
                 <td>
-                  <a href={s.url} target="_blank" rel="noreferrer noopener">
-                    {s.title}
-                  </a>
+                  {s.url ? (
+                    <a href={s.url} target="_blank" rel="noreferrer noopener">{s.title}</a>
+                  ) : (
+                    // No permalink (family knowledge, DNA, a private document).
+                    // Render the title plainly rather than a link that goes nowhere.
+                    <span>{s.title}</span>
+                  )}
                   <div className="muted small">{s.repository}</div>
                 </td>
                 <td>{s.proves}</td>

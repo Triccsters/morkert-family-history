@@ -45,9 +45,13 @@ export default function EvidencePage() {
                   return (
                     <tr key={s.id}>
                       <td>
-                        <a href={s.url} target="_blank" rel="noreferrer noopener">
-                          {s.title}
-                        </a>
+                        {s.url ? (
+                          <a href={s.url} target="_blank" rel="noreferrer noopener">{s.title}</a>
+                        ) : (
+                          // No permalink (family knowledge, DNA, a private document).
+                          // Render the title plainly rather than a link that goes nowhere.
+                          <span>{s.title}</span>
+                        )}
                         <div className="muted small">
                           {s.repository} · {s.type} · read {s.read}
                         </div>
