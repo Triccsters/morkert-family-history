@@ -3,25 +3,35 @@
     "id": "quebec",
     "name": "Quebec",
     "region": "Canada",
-    "span": "before 1868",
+    "span": "1740s to about 1868",
     "matchers": [
       "Canada",
+      "Lower Canada",
       "Quebec",
-      "Lower Canada"
+      "Richelieu",
+      "Sorel",
+      "Yamaska"
     ],
-    "summary": "Where the Houle line comes from, and the only place on this site outside the United States.",
+    "summary": "Where the Houle line comes from, now traced through the parishes of the lower Richelieu and Lac Saint-Pierre.",
     "paragraphs": [
-      "Michel Houle was born on 29 September 1802 in Lower Canada and died at Centerville on 6 December 1898, ninety-six years old. Two Minnesota state censuses catch him there, aged 70 in 1875 and about 89 in 1895.",
-      "His son John B. was born there about 1842 and his daughter-in-law Virginia Tourville about 1847, both in Lower Canada. A Euphemie Tourville, fourteen, is in the same household, also Quebec-born.",
-      "The French surnames stack up from there: Houle, Tourville, Letourneau, Bernier and LaCasse. Every one is a Quebec name, and the family stayed Catholic through four generations in Minnesota.",
-      "Nothing reaches across the border yet. No parish register, no crossing, and no record of Michel's own parents."
+      "Michel Houle died at Centerville on 6 December 1898, and two Minnesota state censuses catch him there, aged 70 in 1875 and about 89 in 1895. His son John B. and daughter-in-law Virginia Tourville were both born in Lower Canada.",
+      "The Quebec registers now reach him. He married Genevieve Cartier at Saint-Michel-d'Yamaska in 1829; their son Jean-Baptiste was baptised at Saint-Aime in Massueville in 1842; Genevieve was buried there in 1847; and Michel married Marie Lataille at Sainte-Victoire-de-Sorel in 1848. All of these parishes sit within a few miles of each other where the Richelieu and Yamaska rivers meet Lac Saint-Pierre.",
+      "Behind them the family climbs through the same few parishes: Michel's parents married at Saint-Pierre-de-Sorel in 1796, Genevieve's at Yamaska in 1807, and her Ritchot grandparents at Saint-Francois-du-Lac in 1775.",
+      "The French surnames stack up across the whole side: Houle, Cartier, Ritchot, Crevier, Loiseau, Tourville, Letourneau, Bernier, Forcier, LaCasse, Parenteau and LaMotte. The family stayed Catholic through four generations in Minnesota."
     ],
     "sources": [
       "findagrave-michel",
       "census-1895-centerville",
       "census-1875-centerville",
       "census-1900-centerville",
-      "mn-death-johnb-1929"
+      "mn-death-johnb-1929",
+      "qc-marr-1829-houle-cartier",
+      "qc-bapt-1842-jean-baptiste-houle",
+      "qc-bur-1847-genevieve-cartier",
+      "qc-marr-1848-houle-lataille",
+      "qc-marr-1796-joseph-loiseau",
+      "qc-marr-1807-cartier-ritchot",
+      "qc-marr-1775-ritchot-crevier"
     ]
   },
   {

@@ -280,5 +280,58 @@
       "census-1875-centerville",
       "findagrave-zotique"
     ]
+  },
+  {
+    "id": "marriage-1829",
+    "title": "Michel Houle marries Genevieve Cartier at Yamaska",
+    "date": "24 February 1829",
+    "sortYear": 1829,
+    "place": "Saint-Michel-d'Yamaska, Quebec",
+    "placeId": "quebec",
+    "confidence": "probable",
+    "summary": "The marriage that carries the Houle line back into Quebec, and names two more generations.",
+    "paragraphs": [
+      "On 24 February 1829, after three Sundays of banns, Michel Houle, a farmer, married Genevieve Cartier, still a minor, at Saint-Michel-d'Yamaska on the south shore of Lac Saint-Pierre. The priest named both sets of parents: Joseph Houle and the late Jeanne Loiseau dite Cardin for the groom, Louis Cartier and Dorothee Ritchot for the bride. Michel's father and his brother Jean stood as witnesses, with the bride's father.",
+      "Through Genevieve the line climbs further. Her parents married at Yamaska in 1807, and her Ritchot grandparents at Saint-Francois-du-Lac in 1775, which names a generation born in the first half of the 1700s.",
+      "The Houle surname itself stops one step up. Joseph's own marriage at Sorel in 1796 writes him only as Joseph, with no surname and no parents."
+    ],
+    "people": [
+      "michel-houle",
+      "genevieve-cartier",
+      "joseph-houle-1796",
+      "jeanne-loiseau",
+      "louis-cartier-1807",
+      "dorothee-ritchot-1784"
+    ],
+    "sources": [
+      "qc-marr-1829-houle-cartier",
+      "qc-marr-1807-cartier-ritchot",
+      "qc-marr-1775-ritchot-crevier",
+      "qc-marr-1796-joseph-loiseau"
+    ]
+  },
+  {
+    "id": "death-lacasse-1964",
+    "title": "Cyril and Delina LaCasse killed at a Hugo railroad crossing",
+    "date": "14 March 1964",
+    "sortYear": 1964,
+    "place": "Hugo, Washington County, Minnesota",
+    "placeId": "forest-lake",
+    "confidence": "record",
+    "summary": "Blanche's parents died together when a train struck their car near Hugo.",
+    "paragraphs": [
+      "Late on the night of Saturday 14 March 1964 a Northern Pacific train struck the car of Cyril and Delina LaCasse at a crossing near Hugo. Both were killed. The Associated Press report two days later noted that the crossing had no electric signals, and gave their ages as 75 and 76.",
+      "Their death records, both dated that day at Hugo, are what name their parents: Tellsford LaCasse and Alphonsine Parenteau for Cyril, John LaMotte and Rosalyn Tatreau for Delina. The crossing is today's 140th Street, per T.J."
+    ],
+    "people": [
+      "cyrille-lacasse",
+      "delina-lacasse",
+      "blanche-lacasse-1916"
+    ],
+    "sources": [
+      "winona-1964-lacasse-crash",
+      "mn-death-cyril-1964",
+      "mn-death-delina-1964"
+    ]
   }
 ]

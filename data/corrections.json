@@ -13,11 +13,13 @@
     "claim": "Honore Houle, Sarah Doucette, Genevieve Cartier and David Houle are direct ancestors",
     "where": "The same research",
     "verdict": "wrong",
-    "correction": "Every one of them hung off David Houle. With David out of the line, none of them has any documented connection to this family. The line above Lloyd runs John Joseph, John A., John B., then Michel.",
+    "correction": "Every one of them hung off David Houle, and with David out of the line Honore Houle, Sarah Doucette and David have no documented connection to this family. Genevieve Cartier is the exception: she turned out to be a direct ancestor after all, by a different route. She was Michel Houle's first wife and John Baptiste's mother, named in his 1842 baptism and in her own 1829 marriage. The line above Lloyd runs John Joseph, John A., John B., then Michel and Genevieve.",
     "sources": [
       "mn-death-johnj-1970",
       "mn-death-johna-1942",
-      "mn-death-johnb-1929"
+      "mn-death-johnb-1929",
+      "qc-bapt-1842-jean-baptiste-houle",
+      "qc-marr-1829-houle-cartier"
     ]
   },
   {
@@ -75,6 +77,18 @@
     "correction": "The 1910 census places Henry, Mary and Archibald at Foley and Magnolia Springs in Baldwin County, Alabama. The route was Ohio, Indiana, Alabama, North Dakota, then Minnesota.",
     "sources": [
       "census-1910-alabama"
+    ]
+  },
+  {
+    "claim": "Michel Houle's wife was Kadzi Tougon, probably Tougas, the mother of Thomas and possibly of John Baptiste",
+    "where": "This site, from Thomas Houle's 1934 Minnesota death record",
+    "verdict": "wrong",
+    "correction": "Michel married twice. His first wife, Genevieve Cartier, was John Baptiste's mother (1842 baptism) and died in 1847. His second, Marie Lataille, married at Sainte-Victoire-de-Sorel, was Thomas's mother (1851 baptism) and died in 1854. Kadzi Tougon is the 1934 clerk's rendering of Marie Lataille, not a third woman, and the guess of Tougas is withdrawn.",
+    "sources": [
+      "mn-death-thomas-1934",
+      "qc-bapt-1851-thomas-houle",
+      "qc-marr-1848-houle-lataille",
+      "qc-bapt-1842-jean-baptiste-houle"
     ]
   }
 ]

@@ -95,8 +95,8 @@
     "repository": "FamilySearch",
     "type": "Draft card",
     "url": "https://www.familysearch.org/ark:/61903/1:1:K6ZJ-MM2",
-    "proves": "Registered in Benson County, North Dakota, 1917 or 1918.",
-    "read": "2026-09-18",
+    "proves": "Registered in Benson County, North Dakota, 1917 or 1918. Born 4 April 1888 at Lafayette, Indiana.",
+    "read": "2026-09-24",
     "strength": "record"
   },
   {
@@ -455,8 +455,8 @@
     "repository": "FamilySearch, Find a Grave Index",
     "type": "Memorial",
     "url": "https://www.familysearch.org/ark:/61903/1:1:QV28-HL9L",
-    "proves": "Born 14 July 1888, died 18 December 1958, buried Woodbine Cemetery, Jo Daviess County, Illinois. Carries Larson as her maiden name.",
-    "read": "2026-09-18",
+    "proves": "Born 14 July 1888, died 18 December 1958, buried at Woodbine Cemetery, which the index places in Jo Daviess County, Illinois; she died in Washington state, and Puyallup, Washington, where Archibald died, has a Woodbine Cemetery. Carries Larson as her maiden name.",
+    "read": "2026-09-24",
     "strength": "compiled"
   },
   {
@@ -608,5 +608,255 @@
     "proves": "Henry Markert, 68, born Indiana, living as father in the household of his widowed son Gust Markert, 37, born Indiana, at Blackduck; his wife Mary, 61, born Ohio. Gust's six children were born in North Dakota, Alabama and Missouri. Henry's entry here gives his father as born in Ohio but his mother as born in Pennsylvania. Household 79, sheet 5A, NARA T625.",
     "read": "2026-09-18",
     "strength": "record"
+  },
+  {
+    "id": "qc-marr-1829-houle-cartier",
+    "title": "Marriage of Michel Houle and Genevieve Cartier, Saint-Michel-d'Yamaska, 24 February 1829",
+    "repository": "FamilySearch, Quebec Catholic Parish Registers (image)",
+    "type": "Parish marriage",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QSQ-G993-ZQDC",
+    "proves": "Read from the register image (1809-1829 volume, image 598, entry 9). Married 24 February 1829 at Saint-Michel-d'Yamaska: Michel Houle, farmer, adult son of Joseph Houle, farmer, and the late Jeanne Loiseau dite Cardin; Genevieve Cartier, a minor, daughter of Louis Cartier and Dorothee Ritchot. Witnesses Joseph Houle, father of the groom, Jean Houle, his brother, and Louis Cartier, father of the bride.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-marr-1796-joseph-loiseau",
+    "title": "Marriage of Joseph and Jeanne Loiseau, Saint-Pierre-de-Sorel, 1 February 1796",
+    "repository": "FamilySearch, Quebec Catholic Parish Registers (image)",
+    "type": "Parish marriage",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L99Q-Q78F",
+    "proves": "Read from the register image (1749-1802 volume, image 513, right page). Married 1 February 1796 at Sorel: a groom written only as Joseph, of age, farmer, with no surname and no parents; the banns were also read at Maska on a certificate from Father Dugas. Bride Jeanne Loiseau, of age, daughter of Jean-Baptiste Loiseau-Cardin and the late Jeanne Cary (reading uncertain; possibly Fary). Nobody signed.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-marr-1807-cartier-ritchot",
+    "title": "Marriage of Louis Cartier and Dorothee Ritchot, Saint-Michel-d'Yamaska, 12 January 1807",
+    "repository": "FamilySearch, Quebec Catholic Parish Registers (image)",
+    "type": "Parish marriage",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-8993-ZD6",
+    "proves": "Read from the register image (1775-1809 volume, image 610, left page, last entry). Married 12 January 1807 at Yamaska: Louis Cartier dit Gaguet (reading uncertain), farmer, adult son of the late Louis Cartier and Madeleine Allard; Dorothee Ritchot, of age, daughter of the late Michel Ritchot and Marguerite Crevier.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bur-1793-michel-ritchot",
+    "title": "Burial of Michel Ritchot, Saint-Michel-d'Yamaska, 8 November 1793",
+    "repository": "FamilySearch, Quebec Catholic Parish Registers (image)",
+    "type": "Parish burial",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-8993-ZD",
+    "proves": "Read from the register image (1775-1809 volume, image 308, right page, first entry). Buried 8 November 1793, having died the day before, aged 47, husband of Marguerite Crevier. The act names no parents, although the FamilySearch index of it lists Joseph Ritchot and Anne Giroux.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-marr-1775-ritchot-crevier",
+    "title": "Marriage of Michel Ritchot and Marguerite Crevier dit St-Francois, Saint-Francois-du-Lac, 30 January 1775",
+    "repository": "FamilySearch, Quebec Catholic Parish Registers (image)",
+    "type": "Parish marriage",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3QSQ-G993-CQR1",
+    "proves": "Read from the register image (1749-1795 volume, image 235, foot of the left page running onto the right). Married 30 January 1775: Michel Ritchot, written Richotte, son of the late Joseph Ritchot and Marie-Anne Giroux; Marguerite Crevier St-Francois, daughter of the late Charles Crevier and the late Charlotte Diel. Witness Joseph Crevier St-Francois.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bapt-1784-dorothee-ritchot",
+    "title": "Baptism of Dorothee Marie Ritchot, Saint-Michel-d'Yamaska, 25 June 1784",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish baptism index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X4Q9-GNY7",
+    "proves": "Baptised 25 June 1784 at Yamaska, daughter of Michel Ritchot and Marguerite Crevier. A second Dorothee Ritchot, baptised there in 1788 to Pierre Ritchot and Josephte Robidoux, is a different girl.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bapt-1842-jean-baptiste-houle",
+    "title": "Baptism of Jean-Baptiste Houle, Saint-Aime (Massueville), 22 August 1842",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish baptism index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X435-JVT6",
+    "proves": "Baptised 22 August 1842 at Saint-Aime, Massueville, Richelieu County, son of Michel Houle and Genevieve Cartier.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bur-1847-genevieve-cartier",
+    "title": "Burial of Genevieve Cartier, Saint-Aime (Massueville), 6 June 1847",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish burial index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X43Y-LW5N",
+    "proves": "Buried 6 June 1847 at Saint-Aime, Massueville. Wife of Michel Houle; daughter of Louis Cartier and Dorothee Ritchot.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-marr-1848-houle-lataille",
+    "title": "Marriage of Michel Houle and Marie Lataille, Sainte-Victoire-de-Sorel, 21 November 1848",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish marriage index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X4QQ-3RKX",
+    "proves": "Index entry for the marriage of Michel Houle and Marie Lataille at Sainte-Victoire-de-Sorel. The structured index names the two spouses only; the date, 21 November 1848, was taken from the entry on 22 September 2026 and has not been re-read from the register.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bapt-1851-thomas-houle",
+    "title": "Baptism of Thomas Houle, Sainte-Victoire-de-Sorel, 21 September 1851",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish baptism index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X4QW-NQTH",
+    "proves": "Baptised 21 September 1851 at Sainte-Victoire-de-Sorel, son of Michel Houle and Marie Lataille.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "qc-bur-1854-marie-lataille",
+    "title": "Burial of Marie Lataille, Sainte-Victoire-de-Sorel, 24 April 1854",
+    "repository": "FamilySearch, Quebec Parish Registers (index)",
+    "type": "Parish burial index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:X4Q4-8222",
+    "proves": "Buried 24 April 1854 at Sainte-Victoire-de-Sorel. Wife of Michel Houle; daughter of Louis Lataille and Judith St-Martin.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "mn-death-lydia-1982",
+    "title": "Minnesota death, Lydia Houle",
+    "repository": "FamilySearch",
+    "type": "Death record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPZN-JDVK",
+    "proves": "Died 19 May 1982 at Forest Lake, Washington County. Wife of John Houle. Parents Joe Bernier and Emmile Forcier.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "mn-birth-lydia-1896",
+    "title": "Minnesota birth index, Lydia Houle",
+    "repository": "FamilySearch",
+    "type": "Birth index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:V47J-SJS",
+    "proves": "Born 20 June 1896 in Minnesota; mother's surname Forcier. Died 19 May 1982, Washington County.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "census-1910-bernier",
+    "title": "1910 census, Centerville, Anoka County, Minnesota (Bernier household)",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:M2L8-CXG",
+    "proves": "Josef Bernier, born about 1867 in French Canada, came 1870; wife Emele, born about 1868 in French Canada, came 1878. Children John B. (1891), Lydia (1897), Emele (1899), Stefana (1900) and Josef Jr. (1901), all born Minnesota.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "mn-death-cyril-1964",
+    "title": "Minnesota death, Cyril Lacasse",
+    "repository": "FamilySearch",
+    "type": "Death record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QGTR-8KQT",
+    "proves": "Died 14 March 1964 at Hugo, Washington County. Husband of Delina. Parents Tellsford Lacasse and Alphonsine Parenteau.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "wwii-draft-cyril",
+    "title": "WWII draft registration, Cyril Joseph Lacasse",
+    "repository": "FamilySearch",
+    "type": "Draft card",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKCC-WR8M",
+    "proves": "Registered 27 April 1942 at Hugo and Centerville. Born 4 December 1888 at Centerville, Minnesota. Contact Delinna Lacasse.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "mn-death-delina-1964",
+    "title": "Minnesota death, Delina Lacasse",
+    "repository": "FamilySearch",
+    "type": "Death record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPZH-W2D8",
+    "proves": "Died 14 March 1964 at Hugo, Washington County. Wife of Cyril. Parents John Lamotte and Rosalyn Tatreau.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "winona-1964-lacasse-crash",
+    "title": "Winona Daily News, 16 March 1964: Elderly Couple Dead in Car, Train Crash",
+    "repository": "Winona State University newspaper archive",
+    "type": "Newspaper",
+    "url": "https://newspaperarchive.winona.edu/?a=d&d=TWN19640316-01.2.67",
+    "proves": "Associated Press report: Cyril LaCasse, 75, and his wife, 76 (printed as Celina), of Hugo, were killed late Saturday night, 14 March 1964, when a Northern Pacific train struck their car at a crossing near Hugo. The crossing had no electric signals.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "obit-index-blanche-2007",
+    "title": "Obituary index, Blanche A. Houle, December 2007",
+    "repository": "FamilySearch",
+    "type": "Obituary index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QKRC-HJGL",
+    "proves": "Died 7 December 2007, obituary 9 December 2007, burial Forest Lake. Names among her relatives Walter, Clem, Eugene, Cyril and James Lacasse, Marie Tauer and Eva Kline, and Susan and Rodney Morkert. The index does not state how each is related.",
+    "read": "2026-09-24",
+    "strength": "compiled"
+  },
+  {
+    "id": "wa-death-archie-1971",
+    "title": "Washington death index, Archibald M. Morkert",
+    "repository": "FamilySearch",
+    "type": "Death index",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6F5N-YML5",
+    "proves": "Died 12 December 1971 at Puyallup, Pierce County, Washington. The index gives his birth year as 1887.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "numident-donald-morkert",
+    "title": "Social Security file, Donald Richard Morkert",
+    "repository": "FamilySearch, NUMIDENT",
+    "type": "Social Security record",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6KWH-LLF5",
+    "proves": "Born 10 April 1930 at Leeds, Benson County, North Dakota; died 7 March 1982. Parents Archibald M. Morkert and Julia B. Larson.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "census-1930-gunderson",
+    "title": "1930 census, Butte Valley Township, Benson County, North Dakota (Gunderson household)",
+    "repository": "FamilySearch",
+    "type": "Census",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:XKJ5-XWF",
+    "proves": "Anton Gunderson, born about 1889 in Norway, came 1909; wife Inga G., born about 1899 in Minnesota; with their children, Gena C. first.",
+    "read": "2026-09-24",
+    "strength": "record"
+  },
+  {
+    "id": "findagrave-anton-gunderson",
+    "title": "Find a Grave, Anton Gunderson",
+    "repository": "Find a Grave",
+    "type": "Memorial",
+    "url": "https://www.findagrave.com/memorial/48713821/anton-gunderson",
+    "proves": "Born 6 October 1888, died 24 December 1954, buried Our Saviour Lutheran Church Cemetery, Harlow, North Dakota.",
+    "read": "2026-09-24",
+    "strength": "compiled"
+  },
+  {
+    "id": "findagrave-inga-gunderson",
+    "title": "Find a Grave, Inga Gunderson",
+    "repository": "Find a Grave",
+    "type": "Memorial",
+    "url": "https://www.findagrave.com/memorial/48793787/inga-gunderson",
+    "proves": "Born 6 January 1898, died 31 August 1960, buried Our Saviour Lutheran Church Cemetery, Harlow, North Dakota.",
+    "read": "2026-09-24",
+    "strength": "compiled"
+  },
+  {
+    "id": "findagrave-agnes-tufte",
+    "title": "Find a Grave, Agnes I. Gunderson Tufte, with obituary",
+    "repository": "Find a Grave",
+    "type": "Memorial",
+    "url": "https://www.findagrave.com/memorial/129733874/agnes_i-tufte",
+    "proves": "Born at Harlow 19 July 1924 to Anton and Inga Gunderson; died 2014. Her obituary names her sisters Gena Gronvold, Evelyn Morkert and Nina Berg and her brother Alvin as already dead, and brothers Gilmen and Roy as living.",
+    "read": "2026-09-24",
+    "strength": "compiled"
   }
 ]

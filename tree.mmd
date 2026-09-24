@@ -1,26 +1,47 @@
 graph TD
+  JR["Joseph Ritchot"] --> MR
+  AGx["Marie-Anne Giroux"] --> MR
+  CC["Charles Crevier"] --> MC
+  CD["Charlotte Diel"] --> MC
+  MR["Michel Ritchot<br/>abt 1746 to 1793 Yamaska"] --> DR
+  MC["Marguerite Crevier<br/>m. 1775 St-Francois-du-Lac"] --> DR
+  LCe["Louis Cartier"] --> LC
+  MA["Madeleine Allard"] --> LC
+  LC["Louis Cartier<br/>m. 1807 Yamaska"] --> GC
+  DR["Dorothee Ritchot<br/>b. 1784 Yamaska"] --> GC
+  JLC["Jean-Baptiste Loiseau-Cardin"] --> JLo
+  JCy["Jeanne Cary"] --> JLo
+  JH["Joseph Houle<br/>m. 1796 Sorel"] --> MH
+  JLo["Jeanne Loiseau dite Cardin<br/>d. before 1829"] --> MH
+  GC["Genevieve Cartier<br/>m. 1829, d. 1847"] --> JB
   JL["John L. Morkert<br/>Preble Co. Ohio 1820"] --> EM
   MH["Michel Houle<br/>1802 Quebec to 1898"] --> JB["John Baptiste Houle<br/>1842 Quebec to 1929"]
   VT["Virginia Tourville"] --> JA
   JB --> JA["John A. Houle<br/>1868 Centerville to 1942"]
   ML["Mathilda Letourneau"] --> JJ
   JA --> JJ["John Joseph Houle<br/>1891 to 1970"]
+  JBe["Joseph Bernier<br/>abt 1867 French Canada"] --> LB
+  EF["Emilie Forcier<br/>abt 1868 French Canada"] --> LB
   LB["Lydia B. Bernier<br/>1896 to 1982"] --> LH
   JJ --> LH["Lloyd Harry Houle<br/>1917 to 2015"]
   BL["Blanche Adele LaCasse<br/>1916 to 2007"] --> SH
-  CL["Cyrille Lacasse"] --> BL
-  DL["Delina Lacasse"] --> BL
+  TL["Tellsford LaCasse"] --> CL
+  AP["Alphonsine Parenteau"] --> CL
+  JLM["John LaMotte"] --> DL
+  RT["Rosalyn Tatreau"] --> DL
+  CL["Cyril Joseph LaCasse<br/>1888 to 1964"] --> BL
+  DL["Delina LaMotte<br/>abt 1888 to 1964"] --> BL
   LH --> SH["Susan Marie Houle<br/>b. 1949"]
 
   EM["Elias Silas Morkert<br/>1821 Ohio to 1894"] --> HM
   EB["Elizabeth Burkhalter<br/>b. 1828 Ohio"] --> HM
   HM["Henry Newton Morkert<br/>1851 Indiana to 1933"] --> AM
   MM["Mary M. Morkert<br/>b. abt 1857 Ohio"] --> AM
-  AM["Archibald Monroe Morkert<br/>b. abt 1888 Indiana"] --> OM
+  AM["Archibald Monroe Morkert<br/>1888 Indiana to 1971"] --> OM
   JM["Julia B. Larson<br/>1888 to 1958"] --> OM
   OM["Orris Leo Morkert<br/>1923 Leeds to 2011"] --> RM
-  AG["Anton Gunderson"] --> EV
-  IG["Inga Gunderson"] --> EV
+  AG["Anton Gunderson<br/>1888 Norway to 1954"] --> EV
+  IG["Inga Gunderson<br/>1898 to 1960"] --> EV
   EV["Evelyn Anetta Gunderson<br/>1922 Harlow ND to 1998"] --> RM
   RM["Rodney Leo Morkert<br/>living"] --> DM
   SH --> DM["DeAnn Adel Morkert<br/>b. 1969"]
@@ -35,7 +56,7 @@ graph TD
   classDef rec fill:#1e8449,color:#ffffff,stroke:#145a32
   classDef prob fill:#8e44ad,color:#ffffff,stroke:#5b2c6f
   classDef fam fill:#2471a3,color:#ffffff,stroke:#154360
-  class MH,JB,JA,JJ,LH,SH,VT,ML,LB,BL,CL,DL rec
+  class MH,JB,JA,JJ,LH,SH,VT,ML,LB,BL,CL,DL,JBe,EF,TL,AP,JLM,RT rec
   class HM,MM,AM,JM,OM,RM,DM,JO,EV,AG,IG rec
-  class EM,EB,JL prob
+  class EM,EB,JL,GC,JH,JLo,JLC,JCy,LC,DR,LCe,MA,MR,MC,JR,AGx,CC,CD prob
   class TJ,AN,JZ,KM,OL,DY fam

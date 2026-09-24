@@ -255,7 +255,9 @@
       "mn-death-evelyn-1998",
       "ssdi-evelyn-1998",
       "findagrave-evelyn",
-      "obit-orris-2011"
+      "obit-orris-2011",
+      "census-1930-gunderson",
+      "findagrave-agnes-tufte"
     ],
     "notes": "Born at Harlow in Benson County, twenty miles from Leeds, so she and Orris were both North Dakota farm children from the same county. Her Social Security file names her parents as Anton and Inga Gunderson, which puts a Norwegian line into a family that is otherwise German and French-Canadian. She is buried at Scandinavian Cemetery in Forest Lake.",
     "parents": [
@@ -267,8 +269,8 @@
     "id": "archibald-morkert-1888",
     "name": "Archibald Monroe \"Archie\" Morkert",
     "birth": {
-      "date": "about 1888",
-      "place": "Indiana"
+      "date": "4 April 1888",
+      "place": "Lafayette, Indiana"
     },
     "confidence": "record",
     "relation": "2nd great-grandfather",
@@ -288,9 +290,15 @@
       "census-1930-morhert",
       "wwi-draft-archie",
       "wwii-draft-archie",
-      "census-1950-archie"
+      "census-1950-archie",
+      "wa-death-archie-1971",
+      "numident-donald-morkert"
     ],
-    "notes": "Born in Indiana, a young single man in Alabama in 1910, and a farmer at Leeds in North Dakota from at least 1917 until 1950. He carried the family through three states in one lifetime."
+    "notes": "Born at Lafayette, Indiana on 4 April 1888, by his First World War draft card; a young single man in Alabama in 1910, and a farmer at Leeds in North Dakota from at least 1917 until 1950. He then went west: the Washington death index has him dying at Puyallup, Pierce County, on 12 December 1971. The open queue records a grave date of 1972, which has not been checked here, so the year of death is not fully settled. His son Donald Richard, born at Leeds in 1930, died in 1982.",
+    "death": {
+      "date": "12 December 1971",
+      "place": "Puyallup, Pierce County, Washington"
+    }
   },
   {
     "id": "julia-morkert-1889",
@@ -312,9 +320,10 @@
       "census-1930-morhert",
       "census-1925-julia",
       "census-1950-julia",
-      "findagrave-julia"
+      "findagrave-julia",
+      "numident-donald-morkert"
     ],
-    "notes": "Born in North Dakota, which makes her the first person on this branch not born east of the Mississippi. She was still at Leeds with Archibald in the 1950 census. Her maiden name, Larson, comes from her Find a Grave memorial rather than from a register, so it is a strong lead rather than a proof. Her memorial also puts her burial at Woodbine, Jo Daviess County, Illinois and her death in Washington state, neither of which is explained by anything else found so far.",
+    "notes": "Born in North Dakota, the first person on this branch not born east of the Mississippi. She was still at Leeds with Archibald in the 1950 census and died on 18 December 1958. Her maiden name is now on a record: her son Donald's Social Security file names his mother Julia B. Larson. The Find a Grave index puts her burial at Woodbine Cemetery in Jo Daviess County, Illinois; Archibald died at Puyallup, Washington, which has a Woodbine Cemetery, and this index has mislabelled cemeteries on this family before, so Puyallup is the likely answer. Her own parents are not yet known.",
     "death": {
       "date": "18 December 1958"
     }
@@ -627,7 +636,7 @@
   },
   {
     "id": "cyrille-lacasse",
-    "name": "Cyrille Lacasse",
+    "name": "Cyril Joseph (Cyrille) LaCasse",
     "confidence": "record",
     "relation": "2nd great-grandfather",
     "line": "LaCasse",
@@ -639,13 +648,29 @@
     ],
     "sources": [
       "census-1920-blanche",
-      "census-1930-blanche"
+      "census-1930-blanche",
+      "mn-death-cyril-1964",
+      "wwii-draft-cyril",
+      "winona-1964-lacasse-crash",
+      "obit-index-blanche-2007"
     ],
-    "notes": "Head of a Lacasse household in Centerville, Anoka County in both 1920 and 1930, written Cyrille in one census and Cyril in the other. Earlier research gives him the middle name Joseph and a birth at Centerville in 1888, neither yet verified here."
+    "notes": "Head of a Lacasse household in Centerville in 1920 and 1930, written Cyrille in one census and Cyril in the other. His 1942 draft card gives Cyril Joseph, born 4 December 1888 at Centerville, living at Hugo. His death record names his parents as Tellsford, almost certainly Telesphore, LaCasse and Alphonsine Parenteau. He and Delina were killed together late on the night of 14 March 1964, when a Northern Pacific train struck their car at a crossing near Hugo that had no electric signals; the crossing is today's 140th Street, per T.J. The index of Blanche's 2007 obituary lists Walter, Clem, Eugene, Cyril and James Lacasse, Marie Tauer and Eva Kline among her relatives; they are most likely her brothers and sisters, but the index does not state the relationships.",
+    "parents": [
+      "telesphore-lacasse",
+      "alphonsine-parenteau"
+    ],
+    "birth": {
+      "date": "4 December 1888",
+      "place": "Centerville, Anoka County, Minnesota"
+    },
+    "death": {
+      "date": "14 March 1964",
+      "place": "Hugo, Washington County, Minnesota"
+    }
   },
   {
     "id": "delina-lacasse",
-    "name": "Delina Lacasse",
+    "name": "Delina (LaMotte) LaCasse",
     "confidence": "record",
     "relation": "2nd great-grandmother",
     "line": "LaCasse",
@@ -657,9 +682,23 @@
     ],
     "sources": [
       "census-1920-blanche",
-      "census-1930-blanche"
+      "census-1930-blanche",
+      "mn-death-delina-1964",
+      "winona-1964-lacasse-crash"
     ],
-    "notes": "Named in the same two censuses. Earlier research gives her maiden name as LaMotte, which is not proven."
+    "notes": "Named in the 1920 and 1930 censuses. Her death record proves the LaMotte maiden name that earlier research had without a document: her parents were John Lamotte and Rosalyn Tatreau. She died with Cyril in the car and train crash near Hugo on 14 March 1964; the Associated Press gave her age as 76 and printed her name as Celina.",
+    "parents": [
+      "john-lamotte",
+      "rosalyn-tetreault"
+    ],
+    "birth": {
+      "date": "about 1888",
+      "place": "Minnesota"
+    },
+    "death": {
+      "date": "14 March 1964",
+      "place": "Hugo, Washington County, Minnesota"
+    }
   },
   {
     "id": "john-joseph-houle-1891",
@@ -703,10 +742,12 @@
     "id": "lydia-bernier-1896",
     "name": "Lydia B. (Bernier) Houle",
     "birth": {
-      "date": "1896"
+      "date": "20 June 1896",
+      "place": "Minnesota"
     },
     "death": {
-      "date": "1982"
+      "date": "19 May 1982",
+      "place": "Forest Lake, Washington County, Minnesota"
     },
     "confidence": "record",
     "relation": "2nd great-grandmother",
@@ -725,9 +766,16 @@
     "sources": [
       "mn-marriage-1914",
       "census-1930-lloyd",
-      "census-1940-johnj"
+      "census-1940-johnj",
+      "mn-death-lydia-1982",
+      "mn-birth-lydia-1896",
+      "census-1910-bernier"
     ],
-    "notes": "She married at eighteen and appears with the family in the 1930 and 1940 censuses. Bernier is a surname new to this tree."
+    "notes": "She married at eighteen and appears with the family in the 1930 and 1940 censuses. Her death record names her parents as Joe Bernier and Emmile Forcier, and in 1910 she is at home in Centerville with them and four brothers and sisters. The state birth index gives 20 June 1896. She died at Forest Lake in 1982.",
+    "parents": [
+      "joseph-bernier-1867",
+      "emilie-forcier-1868"
+    ]
   },
   {
     "id": "john-a-houle-1868",
@@ -803,7 +851,8 @@
     "relation": "4th great-grandfather",
     "line": "Houle",
     "parents": [
-      "michel-houle"
+      "michel-houle",
+      "genevieve-cartier"
     ],
     "spouses": [
       "virginia-tourville"
@@ -817,9 +866,10 @@
       "census-1875-centerville",
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
-      "mn-death-johna-1942"
+      "mn-death-johna-1942",
+      "qc-bapt-1842-jean-baptiste-houle"
     ],
-    "notes": "His full name was John Baptiste, and his memorial gives an exact birth of 22 August 1842. He was brought from Quebec as a boy and died at Centerville eighty-six years later, buried at Saint Genevieve with his father. The 1900 census says he had been married thirty-three years, which puts the wedding at about 1867, and gives both of his own parents as born in French Canada.",
+    "notes": "His full name was John Baptiste, and his memorial gives an exact birth of 22 August 1842. He was brought from Quebec as a boy and died at Centerville eighty-six years later, buried at Saint Genevieve with his father. The 1900 census says he had been married thirty-three years, which puts the wedding at about 1867, and gives both of his own parents as born in French Canada. His Quebec baptism has been found: Jean-Baptiste, baptised 22 August 1842 at Saint-Aime in Massueville, Richelieu County, son of Michel Houle and Genevieve Cartier. The date matches his memorial exactly, and that match is what joins this family to the Quebec registers.",
     "marriage": {
       "date": "about 1867",
       "place": "Minnesota",
@@ -876,56 +926,54 @@
       "mn-death-johnb-1929",
       "mn-burial-johnb-1929",
       "mn-death-thomas-1934",
-      "findagrave-zotique"
+      "findagrave-zotique",
+      "qc-marr-1829-houle-cartier",
+      "qc-bapt-1842-jean-baptiste-houle",
+      "qc-marr-1848-houle-lataille",
+      "qc-bapt-1851-thomas-houle"
     ],
-    "notes": "Now dated, not just named. He is at Centerville in the 1875 state census aged 70 and again in 1895 aged about 89, and his memorial gives 29 September 1802 to 6 December 1898, buried at Saint Genevieve Cemetery. He was ninety-six. Earlier research guessed 1806 and 1898 for him; the death is exact and the birth is four years out. One warning about the memorial: the index maps Saint Genevieve Cemetery to Shoreham, Vermont. It is Centerville, Minnesota. A Zotique Houle appears in the same Vermont-labelled cemetery and in the Minnesota county death register on the same day in 1897, which is what gives the error away. His wife is now named, if not reliably spelled: Thomas's 1934 death record gives her as Kadzi Tougon, probably Tougas. Searching Quebec registers for a Houle and Tougas marriage is the first route into his parents that does not depend on the surname Houle alone, which is far too common there to filter on.",
+    "notes": "He is at Centerville in the 1875 state census aged 70 and again in 1895 aged about 89, and his memorial gives 29 September 1802 to 6 December 1898, buried at Saint Genevieve Cemetery. One warning about the memorial: the index maps Saint Genevieve Cemetery to Shoreham, Vermont. It is Centerville, Minnesota; a Zotique Houle in the same Vermont-labelled cemetery and in the Minnesota county death register on the same day in 1897 gives the error away. Quebec now reaches him. He married Genevieve Cartier at Saint-Michel-d'Yamaska on 24 February 1829, a farmer and an adult son of Joseph Houle, farmer, and the late Jeanne Loiseau dite Cardin; his father and a brother, Jean Houle, stood as witnesses. Their son Jean-Baptiste, the John Baptiste of Centerville, was baptised at Saint-Aime in Massueville on 22 August 1842. Genevieve died in 1847, and in 1848 he married Marie Lataille at Sainte-Victoire-de-Sorel; Thomas was her son. Matching the Quebec man to the Centerville one rests on John Baptiste's exact birth date and Thomas's 1851 birth, so the Quebec part of his life is probable rather than record. His birth year is unsettled. The memorial says 1802. The censuses give ages that point to about 1805 or 1806, and a FamilySearch tree has him baptised at Yamaska on 30 September 1806, a day after the memorial's birthday; that baptism has not been opened here. Against 1806, the 1829 marriage calls him majeur, which under the law then meant twenty-five or over. Until the baptism is read, 1802 stands with that caveat.",
     "spouses": [
-      "kadzi-tougon"
+      "genevieve-cartier",
+      "marie-lataille"
     ],
     "death": {
       "date": "6 December 1898",
       "place": "Centerville, Anoka County, Minnesota"
+    },
+    "parents": [
+      "joseph-houle-1796",
+      "jeanne-loiseau"
+    ],
+    "marriage": {
+      "date": "24 February 1829",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec",
+      "spouse": "genevieve-cartier"
     }
-  },
-  {
-    "id": "kadzi-tougon",
-    "name": "Kadzi (Tougon) Houle",
-    "confidence": "probable",
-    "relation": "6th great-grandmother",
-    "line": "Tougon",
-    "spouses": [
-      "michel-houle"
-    ],
-    "children": [
-      "thomas-houle-1851"
-    ],
-    "sources": [
-      "mn-death-thomas-1934"
-    ],
-    "notes": "Michel's wife, named only once: her son Thomas's 1934 Minnesota death record gives his parents as Mitchell Houle and Kadzi Tougon. Both halves of that are clearly a clerk writing down French by ear, and Tougon is most likely Tougas, which is a real and common Quebec surname; that is a guess, not a reading of any register. She is proven only as Thomas's mother. Whether she is also the mother of John Baptiste, who carries the direct line, is not proven, because his own death record leaves his mother unknown; the two brothers being nine years apart under one father makes it likely but not certain. Her surname is the first searchable thing this line has ever had on the Quebec side."
   },
   {
     "id": "thomas-houle-1851",
     "name": "Thomas Houle",
     "birth": {
-      "date": "about 1851",
-      "place": "Canada"
+      "date": "September 1851",
+      "place": "Sainte-Victoire-de-Sorel, Richelieu County, Quebec"
     },
     "death": {
       "date": "30 January 1934",
       "place": "Saint Paul, Ramsey County, Minnesota"
     },
     "confidence": "record",
-    "relation": "5th great-granduncle",
+    "relation": "5th great-granduncle (half)",
     "line": "Houle",
     "parents": [
       "michel-houle",
-      "kadzi-tougon"
+      "marie-lataille"
     ],
     "sources": [
-      "mn-death-thomas-1934"
+      "mn-death-thomas-1934",
+      "qc-bapt-1851-thomas-houle"
     ],
-    "notes": "John B.'s younger brother, and the reason Michel can be named at all. His death record gives their father as Mitchell Houle and his own mother as Kadzi Tougon, which is a clerk's rendering of a French name, most likely Tougas. A different mother from John B. would mean two marriages."
+    "notes": "John B.'s younger half-brother, and the reason Michel could be named at all. His 1934 death record gives their father as Mitchell Houle and his own mother as Kadzi Tougon. His Quebec baptism, 21 September 1851 at Sainte-Victoire-de-Sorel, names his mother as Marie Lataille, Michel's second wife, so Kadzi Tougon is a clerk's rendering of her name and not a separate woman. The identification rests on the matching year, father and place of origin, so it is probable."
   },
   {
     "id": "anton-gunderson",
@@ -940,9 +988,19 @@
       "evelyn-morkert-1922"
     ],
     "sources": [
-      "numident-evelyn"
+      "numident-evelyn",
+      "findagrave-anton-gunderson",
+      "census-1930-gunderson",
+      "findagrave-agnes-tufte"
     ],
-    "notes": "Named on his daughter's Social Security file. The family was at Harlow in Benson County, North Dakota, where Evelyn was born in 1922. Gunderson is Norwegian, and nothing else about him has been found yet."
+    "notes": "Named on his daughter's Social Security file. Born in Norway, 6 October 1888 by his memorial (the 1930 census says about 1889), and came to America in 1909. He farmed in Butte Valley Township, Benson County, north of Harlow, and is buried at Our Saviour Lutheran Church Cemetery there. His children with Inga included Gena (Gronvold), Evelyn, Agnes (Tufte), Nina (Berg), Alvin, Gilmen and Roy; Agnes's 2014 obituary names them. His Norwegian home parish is the next thing to find.",
+    "birth": {
+      "date": "6 October 1888",
+      "place": "Norway"
+    },
+    "death": {
+      "date": "24 December 1954"
+    }
   },
   {
     "id": "inga-gunderson",
@@ -957,9 +1015,19 @@
       "evelyn-morkert-1922"
     ],
     "sources": [
-      "numident-evelyn"
+      "numident-evelyn",
+      "findagrave-inga-gunderson",
+      "census-1930-gunderson",
+      "findagrave-agnes-tufte"
     ],
-    "notes": "Named on her daughter's Social Security file, with no surname given other than her married one. Inga is a Norwegian name, as is Anton."
+    "notes": "Named on her daughter's Social Security file. Born in Minnesota on 6 January 1898 by her memorial, buried at Our Saviour Lutheran, Harlow. Her maiden name is still unknown.",
+    "birth": {
+      "date": "6 January 1898",
+      "place": "Minnesota"
+    },
+    "death": {
+      "date": "31 August 1960"
+    }
   },
   {
     "id": "john-l-morkert",
@@ -991,5 +1059,484 @@
     ],
     "sources": [],
     "notes": "Kenneth and Rebecca's son. He is not among the four nieces and nephews listed in the 2003 obituary, so he was most likely born after it."
+  },
+  {
+    "id": "genevieve-cartier",
+    "name": "Geneviève Cartier",
+    "death": {
+      "date": "June 1847",
+      "place": "Saint-Aime (Massueville), Richelieu County, Quebec"
+    },
+    "confidence": "probable",
+    "relation": "5th great-grandmother",
+    "line": "Cartier",
+    "parents": [
+      "louis-cartier-1807",
+      "dorothee-ritchot-1784"
+    ],
+    "spouses": [
+      "michel-houle"
+    ],
+    "children": [
+      "john-b-houle-1840"
+    ],
+    "marriage": {
+      "date": "24 February 1829",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec",
+      "spouse": "michel-houle"
+    },
+    "sources": [
+      "qc-marr-1829-houle-cartier",
+      "qc-bapt-1842-jean-baptiste-houle",
+      "qc-bur-1847-genevieve-cartier"
+    ],
+    "notes": "Michel Houle's first wife and the mother of John Baptiste. She married Michel at Yamaska on 24 February 1829, still a minor, and was buried at Saint-Aime in Massueville on 6 June 1847, leaving him with young children; he remarried the next year. John Baptiste's 1842 baptism at Saint-Aime names his parents as Michel Houle and Genevieve Cartier and falls on the exact birth date his Minnesota memorial gives, which is what connects the Quebec family to the Centerville one. That connection is inference from matching dates and names, so she is probable rather than record. Her own parentage is stated twice, in her marriage and at her burial: Louis Cartier and Dorothee Ritchot. Her other children by Michel include Genevieve, Mathilde, Emilie-Philomene and Guillaume. A FamilySearch tree gives her a baptism of 25 July 1811 at Yamaska, which has not been checked here."
+  },
+  {
+    "id": "marie-lataille",
+    "name": "Marie Lataille",
+    "death": {
+      "date": "April 1854",
+      "place": "Sainte-Victoire-de-Sorel, Richelieu County, Quebec"
+    },
+    "confidence": "probable",
+    "relation": "second wife of Michel Houle, 5th great-grandfather",
+    "line": "Lataille",
+    "spouses": [
+      "michel-houle"
+    ],
+    "children": [
+      "thomas-houle-1851"
+    ],
+    "sources": [
+      "qc-marr-1848-houle-lataille",
+      "qc-bapt-1851-thomas-houle",
+      "qc-bur-1854-marie-lataille",
+      "mn-death-thomas-1934"
+    ],
+    "notes": "Michel Houle's second wife, whom he married at Sainte-Victoire-de-Sorel after Genevieve Cartier died. She is Thomas Houle's mother: his baptism there on 21 September 1851 names his parents as Michel Houle and Marie Lataille. She was buried at Sorel on 24 April 1854, daughter of Louis Lataille and Judith St-Martin. Thomas's 1934 Minnesota death record calls his mother Kadzi Tougon, which earlier versions of this site took for a separate woman; it is almost certainly a clerk's hearing of her name, and a FamilySearch tree carries her as Marie Taillon Lataille. She is not T.J.'s ancestor; the direct line runs through Genevieve. Her sons Louis and Philias were also Michel's."
+  },
+  {
+    "id": "joseph-houle-1796",
+    "name": "Joseph Houle",
+    "confidence": "probable",
+    "relation": "6th great-grandfather",
+    "line": "Houle",
+    "spouses": [
+      "jeanne-loiseau"
+    ],
+    "children": [
+      "michel-houle"
+    ],
+    "marriage": {
+      "date": "1 February 1796",
+      "place": "Saint-Pierre-de-Sorel, Richelieu County, Quebec",
+      "spouse": "jeanne-loiseau"
+    },
+    "sources": [
+      "qc-marr-1829-houle-cartier",
+      "qc-marr-1796-joseph-loiseau"
+    ],
+    "notes": "Michel's father, named in Michel's 1829 marriage as Joseph Houle, farmer, and present at it as a witness, so he was alive in February 1829. His own marriage to Jeanne Loiseau at Sorel on 1 February 1796 writes him only as Joseph, of age, farmer, with no surname and no parents. That makes the Sorel act his only by inference: the bride's name is the one the 1829 act gives for Michel's mother. His parents are unknown, and this is where the Houle surname line stops. FamilySearch trees call him Joseph Petrin dit Houle, born 1767, and one contributor records a family story that he was raised by a farmer named Francois Petrain at Yamaska. None of that is sourced, and it is recorded here only as a lead. A son Jean Houle witnessed the 1829 marriage as Michel's brother."
+  },
+  {
+    "id": "jeanne-loiseau",
+    "name": "Jeanne Loiseau dite Cardin",
+    "confidence": "probable",
+    "relation": "6th great-grandmother",
+    "line": "Loiseau",
+    "parents": [
+      "jean-baptiste-loiseau-cardin",
+      "jeanne-cary"
+    ],
+    "spouses": [
+      "joseph-houle-1796"
+    ],
+    "children": [
+      "michel-houle"
+    ],
+    "marriage": {
+      "date": "1 February 1796",
+      "place": "Saint-Pierre-de-Sorel, Richelieu County, Quebec",
+      "spouse": "joseph-houle-1796"
+    },
+    "sources": [
+      "qc-marr-1829-houle-cartier",
+      "qc-marr-1796-joseph-loiseau"
+    ],
+    "notes": "Michel Houle's mother, dead by the time of his marriage in February 1829, where she is the late Jeanne Loiseau dite Cardin. She married Joseph at Sorel in 1796 with the consent of her father, Jean-Baptiste Loiseau-Cardin; her mother was then already dead. Probable rather than record only because the 1796 groom carries no surname."
+  },
+  {
+    "id": "jean-baptiste-loiseau-cardin",
+    "name": "Jean-Baptiste Loiseau-Cardin",
+    "confidence": "probable",
+    "relation": "7th great-grandfather",
+    "line": "Loiseau",
+    "spouses": [
+      "jeanne-cary"
+    ],
+    "children": [
+      "jeanne-loiseau"
+    ],
+    "sources": [
+      "qc-marr-1796-joseph-loiseau"
+    ],
+    "notes": "Father of Jeanne Loiseau. Living in February 1796, when he consented to her marriage at Sorel and signed nothing. Probable for the same reason as his daughter."
+  },
+  {
+    "id": "jeanne-cary",
+    "name": "Jeanne Cary",
+    "confidence": "probable",
+    "relation": "7th great-grandmother",
+    "line": "Cary",
+    "spouses": [
+      "jean-baptiste-loiseau-cardin"
+    ],
+    "children": [
+      "jeanne-loiseau"
+    ],
+    "sources": [
+      "qc-marr-1796-joseph-loiseau"
+    ],
+    "notes": "Jeanne Loiseau's mother, already dead in 1796. Her surname is a hard word in the register and reads most like Cary; Fary is possible. Treat the spelling as unsettled."
+  },
+  {
+    "id": "louis-cartier-1807",
+    "name": "Louis Cartier",
+    "confidence": "probable",
+    "relation": "6th great-grandfather",
+    "line": "Cartier",
+    "parents": [
+      "louis-cartier-elder",
+      "madeleine-allard"
+    ],
+    "spouses": [
+      "dorothee-ritchot-1784"
+    ],
+    "children": [
+      "genevieve-cartier"
+    ],
+    "marriage": {
+      "date": "12 January 1807",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec",
+      "spouse": "dorothee-ritchot-1784"
+    },
+    "sources": [
+      "qc-marr-1807-cartier-ritchot",
+      "qc-marr-1829-houle-cartier",
+      "qc-bur-1847-genevieve-cartier"
+    ],
+    "notes": "Genevieve's father, a farmer at Yamaska. He married Dorothee Ritchot there on 12 January 1807, an adult son of the late Louis Cartier and Madeleine Allard, so he was born before about 1782 and his father was dead by 1807. The register gives him a dit name after Cartier that reads most like Gaguet; the reading is not certain. He was alive in February 1829, when he witnessed his daughter's marriage. A FamilySearch tree calls him Louis Joseph Napoleon Cartier, 1775 to 1858; no record read here supports the Napoleon, which would be an odd name for a child of 1775. Probable only because the whole Quebec family rests on the identification described under Genevieve."
+  },
+  {
+    "id": "dorothee-ritchot-1784",
+    "name": "Dorothée Ritchot",
+    "birth": {
+      "date": "June 1784",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec"
+    },
+    "confidence": "probable",
+    "relation": "6th great-grandmother",
+    "line": "Ritchot",
+    "parents": [
+      "michel-ritchot-1746",
+      "marguerite-crevier"
+    ],
+    "spouses": [
+      "louis-cartier-1807"
+    ],
+    "children": [
+      "genevieve-cartier"
+    ],
+    "marriage": {
+      "date": "12 January 1807",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec",
+      "spouse": "louis-cartier-1807"
+    },
+    "sources": [
+      "qc-marr-1807-cartier-ritchot",
+      "qc-bapt-1784-dorothee-ritchot",
+      "qc-marr-1829-houle-cartier",
+      "qc-bur-1847-genevieve-cartier"
+    ],
+    "notes": "Genevieve's mother. Her 1807 marriage names her parents as the late Michel Ritchot and Marguerite Crevier, which settles which of two Dorothee Ritchots baptised at Yamaska she was: the girl of 25 June 1784, daughter of Michel and Marguerite, and not the one of 1788, daughter of Pierre Ritchot and Josephte Robidoux. The baptism date comes from the index, not from a reading of the register."
+  },
+  {
+    "id": "louis-cartier-elder",
+    "name": "Louis Cartier",
+    "confidence": "probable",
+    "relation": "7th great-grandfather",
+    "line": "Cartier",
+    "spouses": [
+      "madeleine-allard"
+    ],
+    "children": [
+      "louis-cartier-1807"
+    ],
+    "sources": [
+      "qc-marr-1807-cartier-ritchot"
+    ],
+    "notes": "Father of the younger Louis, and dead by January 1807, when his son's marriage calls him the late Louis Cartier. Nothing else about him has been read yet."
+  },
+  {
+    "id": "madeleine-allard",
+    "name": "Madeleine Allard",
+    "confidence": "probable",
+    "relation": "7th great-grandmother",
+    "line": "Allard",
+    "spouses": [
+      "louis-cartier-elder"
+    ],
+    "children": [
+      "louis-cartier-1807"
+    ],
+    "sources": [
+      "qc-marr-1807-cartier-ritchot"
+    ],
+    "notes": "Mother of the younger Louis Cartier, named in his 1807 marriage. The act does not mark her as dead, but this clerk's habit on that point has not been tested, so her status in 1807 is unknown."
+  },
+  {
+    "id": "michel-ritchot-1746",
+    "name": "Michel Ritchot",
+    "birth": {
+      "date": "about 1746"
+    },
+    "death": {
+      "date": "7 November 1793",
+      "place": "Saint-Michel-d'Yamaska, Yamaska County, Quebec"
+    },
+    "confidence": "probable",
+    "relation": "7th great-grandfather",
+    "line": "Ritchot",
+    "parents": [
+      "joseph-ritchot",
+      "marie-anne-giroux"
+    ],
+    "spouses": [
+      "marguerite-crevier"
+    ],
+    "children": [
+      "dorothee-ritchot-1784"
+    ],
+    "marriage": {
+      "date": "30 January 1775",
+      "place": "Saint-Francois-du-Lac, Yamaska County, Quebec",
+      "spouse": "marguerite-crevier"
+    },
+    "sources": [
+      "qc-marr-1775-ritchot-crevier",
+      "qc-bur-1793-michel-ritchot",
+      "qc-marr-1807-cartier-ritchot"
+    ],
+    "notes": "Married Marguerite Crevier dit St-Francois at Saint-Francois-du-Lac on 30 January 1775, where he is written Richotte, son of the late Joseph Ritchot and Marie-Anne Giroux. He died at Yamaska on 7 November 1793 and was buried the next day, aged forty-seven, which puts his birth about 1746. The burial names no parents; FamilySearch's index attaches Joseph and Anne Giroux to it anyway, and the marriage is where those names really come from."
+  },
+  {
+    "id": "marguerite-crevier",
+    "name": "Marguerite Crevier dit St-François",
+    "confidence": "probable",
+    "relation": "7th great-grandmother",
+    "line": "Crevier",
+    "parents": [
+      "charles-crevier",
+      "charlotte-diel"
+    ],
+    "spouses": [
+      "michel-ritchot-1746"
+    ],
+    "children": [
+      "dorothee-ritchot-1784"
+    ],
+    "marriage": {
+      "date": "30 January 1775",
+      "place": "Saint-Francois-du-Lac, Yamaska County, Quebec",
+      "spouse": "michel-ritchot-1746"
+    },
+    "sources": [
+      "qc-marr-1775-ritchot-crevier",
+      "qc-bur-1793-michel-ritchot",
+      "qc-bapt-1784-dorothee-ritchot"
+    ],
+    "notes": "Married Michel Ritchot at Saint-Francois-du-Lac on 30 January 1775, daughter of the late Charles Crevier and the late Charlotte Diel, so both her parents were dead by then. Joseph Crevier St-Francois witnessed the marriage; the act does not say how he was related. She was widowed in 1793."
+  },
+  {
+    "id": "joseph-ritchot",
+    "name": "Joseph Ritchot",
+    "confidence": "probable",
+    "relation": "8th great-grandfather",
+    "line": "Ritchot",
+    "spouses": [
+      "marie-anne-giroux"
+    ],
+    "children": [
+      "michel-ritchot-1746"
+    ],
+    "sources": [
+      "qc-marr-1775-ritchot-crevier"
+    ],
+    "notes": "Michel Ritchot's father, dead by January 1775. Probable only because the whole Quebec family rests on the identification described under Genevieve Cartier."
+  },
+  {
+    "id": "marie-anne-giroux",
+    "name": "Marie-Anne Giroux",
+    "confidence": "probable",
+    "relation": "8th great-grandmother",
+    "line": "Giroux",
+    "spouses": [
+      "joseph-ritchot"
+    ],
+    "children": [
+      "michel-ritchot-1746"
+    ],
+    "sources": [
+      "qc-marr-1775-ritchot-crevier"
+    ],
+    "notes": "Michel Ritchot's mother, named in his 1775 marriage. The act marks only the father as dead. Probable only because the whole Quebec family rests on the identification described under Genevieve Cartier."
+  },
+  {
+    "id": "charles-crevier",
+    "name": "Charles Crevier",
+    "confidence": "probable",
+    "relation": "8th great-grandfather",
+    "line": "Crevier",
+    "spouses": [
+      "charlotte-diel"
+    ],
+    "children": [
+      "marguerite-crevier"
+    ],
+    "sources": [
+      "qc-marr-1775-ritchot-crevier"
+    ],
+    "notes": "Marguerite's father, dead by January 1775. Crevier is an old Trois-Rivieres name, but no link to the early Creviers has been traced here. Probable only because the whole Quebec family rests on the identification described under Genevieve Cartier."
+  },
+  {
+    "id": "charlotte-diel",
+    "name": "Charlotte Diel",
+    "confidence": "probable",
+    "relation": "8th great-grandmother",
+    "line": "Diel",
+    "spouses": [
+      "charles-crevier"
+    ],
+    "children": [
+      "marguerite-crevier"
+    ],
+    "sources": [
+      "qc-marr-1775-ritchot-crevier"
+    ],
+    "notes": "Marguerite's mother, dead by January 1775. Diel is how the register writes it. Probable only because the whole Quebec family rests on the identification described under Genevieve Cartier."
+  },
+  {
+    "id": "joseph-bernier-1867",
+    "name": "Joseph Bernier",
+    "birth": {
+      "date": "about 1867",
+      "place": "French Canada"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "Bernier",
+    "spouses": [
+      "emilie-forcier-1868"
+    ],
+    "children": [
+      "lydia-bernier-1896"
+    ],
+    "sources": [
+      "mn-death-lydia-1982",
+      "census-1910-bernier"
+    ],
+    "notes": "Lydia's father, named Joe Bernier on her death record. In the 1910 census at Centerville he is Josef, born about 1867 in French Canada, arrived 1870, with his wife and five children: John B., Lydia, Emele, Stefana and Josef Jr. Their marriage has not been found."
+  },
+  {
+    "id": "emilie-forcier-1868",
+    "name": "Emilie Forcier",
+    "birth": {
+      "date": "about 1868",
+      "place": "French Canada"
+    },
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Forcier",
+    "spouses": [
+      "joseph-bernier-1867"
+    ],
+    "children": [
+      "lydia-bernier-1896"
+    ],
+    "sources": [
+      "mn-death-lydia-1982",
+      "mn-birth-lydia-1896",
+      "census-1910-bernier"
+    ],
+    "notes": "Lydia's mother, written Emmile Forcier on her daughter's death record and Emele in the 1910 census, born about 1868 in French Canada and arrived 1878. Lydia's birth index carries the Forcier name too."
+  },
+  {
+    "id": "telesphore-lacasse",
+    "name": "Tellsford (Télesphore?) LaCasse",
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "LaCasse",
+    "spouses": [
+      "alphonsine-parenteau"
+    ],
+    "children": [
+      "cyrille-lacasse"
+    ],
+    "sources": [
+      "mn-death-cyril-1964"
+    ],
+    "notes": "Cyril's father, written Tellsford on Cyril's 1964 death record. That is almost certainly the French name Telesphore heard by an English-speaking clerk; the French form is inference."
+  },
+  {
+    "id": "alphonsine-parenteau",
+    "name": "Alphonsine Parenteau",
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Parenteau",
+    "spouses": [
+      "telesphore-lacasse"
+    ],
+    "children": [
+      "cyrille-lacasse"
+    ],
+    "sources": [
+      "mn-death-cyril-1964"
+    ],
+    "notes": "Cyril's mother, named on his 1964 death record."
+  },
+  {
+    "id": "john-lamotte",
+    "name": "John LaMotte",
+    "confidence": "record",
+    "relation": "3rd great-grandfather",
+    "line": "LaMotte",
+    "spouses": [
+      "rosalyn-tetreault"
+    ],
+    "children": [
+      "delina-lacasse"
+    ],
+    "sources": [
+      "mn-death-delina-1964"
+    ],
+    "notes": "Delina's father, named on her 1964 death record. Earlier research had the LaMotte name without a document; this is the document."
+  },
+  {
+    "id": "rosalyn-tetreault",
+    "name": "Rosalyn Tatreau (Tétreault?)",
+    "confidence": "record",
+    "relation": "3rd great-grandmother",
+    "line": "Tetreault",
+    "spouses": [
+      "john-lamotte"
+    ],
+    "children": [
+      "delina-lacasse"
+    ],
+    "sources": [
+      "mn-death-delina-1964"
+    ],
+    "notes": "Delina's mother, written Rosalyn Tatreau on Delina's 1964 death record. Tetreault is the likely French spelling; that is inference."
   }
 ]

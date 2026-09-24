@@ -6,7 +6,7 @@ const moves = [
     when: "about 1855",
     from: "Quebec",
     to: "Centerville, Anoka County, Minnesota",
-    note: "Two sons born in Canada, John B. about 1840 and Thomas about 1851, both died in Minnesota. No crossing record found.",
+    note: "Two sons baptised in Quebec, John B. at Saint-Aime in 1842 and Thomas at Sorel in 1851, both died in Minnesota. No crossing record found.",
   },
   {
     who: "Elias and Elizabeth Morkert",
@@ -36,6 +36,13 @@ const moves = [
     to: "Forest Lake, Washington County, Minnesota",
     note: "The move that put the Morkerts in the same town as the Houles. The year has not been documented.",
   },
+  {
+    who: "Archibald and Julia Morkert",
+    when: "after 1950",
+    from: "Leeds, North Dakota",
+    to: "Puyallup, Pierce County, Washington",
+    note: "Still at Leeds in the 1950 census. Julia died in Washington in 1958 and Archibald at Puyallup in 1971.",
+  },
 ];
 
 export default function TreePage() {
@@ -50,16 +57,19 @@ export default function TreePage() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="/tree.svg"
-          alt="Family tree showing the Houle line from Michel Houle in Canada and the Morkert line from Elias Morkert in Ohio, converging on DeAnn Morkert"
+          alt="Family tree showing the Houle line from Joseph Houle and the Cartier and Ritchot families in Quebec and the Morkert line from Elias Morkert in Ohio, converging on DeAnn Morkert"
         />
       </div>
 
       <h2>Two families, two countries</h2>
       <div className="card">
         <p>
-          <strong>The Houles</strong> are French-Canadian and Catholic. Five
-          surnames on that side are Quebec names: Houle, Tourville, Letourneau,
-          Bernier and LaCasse. They came to Centerville, a village founded by
+          <strong>The Houles</strong> are French-Canadian and Catholic. The
+          surnames on that side are Quebec names: Houle, Cartier, Ritchot,
+          Crevier, Loiseau, Tourville, Letourneau, Bernier, Forcier, LaCasse and
+          LaMotte. In Quebec they lived in a handful of parishes where the
+          Richelieu and Yamaska rivers meet Lac Saint-Pierre, back to the 1740s.
+          They came to Centerville, a village founded by
           French-Canadian families in the 1850s, and stayed within about fifteen
           miles of it for four generations.
         </p>
