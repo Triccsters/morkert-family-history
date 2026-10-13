@@ -178,3 +178,20 @@ ol.timeline > li::before {
 ol.timeline > li:last-child { margin-bottom: 0; }
 ol.timeline h3 a { text-decoration: none; }
 ol.timeline h3 a:hover { text-decoration: underline; }
+
+/* ---- phones ----
+   Long record links (FamilySearch, archive viewers) have no spaces, so the
+   browser can't break them and the whole page used to widen to fit them;
+   on a phone that zooms everything out. overflow-wrap: anywhere lets them
+   break, and a table that is still too wide scrolls inside itself instead
+   of pushing the page sideways. */
+@media (max-width: 700px) {
+  .wrap { padding: 0 14px; }
+  p, li, td, th { overflow-wrap: anywhere; }
+  table:not(.timeline) { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  th, td { padding: 8px 10px; min-width: 6.5rem; }
+  table.timeline th, table.timeline td { min-width: 0; }
+  td.tl-when { width: 110px; max-width: 110px; }
+  td.tl-grade { width: 120px; }
+  .badge { white-space: normal; }
+}

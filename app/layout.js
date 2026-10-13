@@ -4,8 +4,18 @@ import { site } from "../site.config";
 import { ViewerProvider, ViewerPicker } from "../components/Viewer";
 
 export const metadata = {
+  metadataBase: new URL("https://morkert-family-history.vercel.app"),
   title: site.title,
   description: site.tagline,
+  // What a text or group chat shows when someone pastes the link.
+  openGraph: {
+    title: site.title,
+    description: site.tagline,
+    url: "/",
+    siteName: site.title,
+    type: "website",
+  },
+  twitter: { card: "summary", title: site.title, description: site.tagline },
 };
 
 export default function RootLayout({ children }) {
@@ -34,7 +44,7 @@ export default function RootLayout({ children }) {
         </main>
         <footer className="site">
           <div className="wrap">
-            Kept by {site.owner}. Last updated {site.updated}. Every claim on this
+            Kept by <a href="https://triccsters.vercel.app">{site.owner}</a>. Last updated {site.updated}. Every claim on this
             site links to the record it rests on, or is marked as unverified. The
             other side of this family is at{" "}
             <a href="https://ricci-family-history.vercel.app/">
