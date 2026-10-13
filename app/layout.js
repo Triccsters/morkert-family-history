@@ -32,9 +32,23 @@ export default function RootLayout({ children }) {
               <Link href="/tree">Family tree</Link>
               <Link href="/people">People</Link>
               <Link href="/places">Places</Link>
-              <Link href="/events">Events</Link>
               <Link href="/evidence">Evidence</Link>
-              <Link href="/corrections">Corrections</Link>
+              {/* on phones these fold into "More" (globals.css, .nav-more) */}
+              <span className="nav-extra">
+                <Link href="/pedigree">Pedigree</Link>
+                <Link href="/timeline">Timeline</Link>
+                <Link href="/events">Events</Link>
+                <Link href="/corrections">Corrections</Link>
+              </span>
+              <details className="nav-more">
+                <summary>More</summary>
+                <div className="nav-more-list">
+                  <Link href="/pedigree">Pedigree</Link>
+                  <Link href="/timeline">Timeline</Link>
+                  <Link href="/events">Events</Link>
+                  <Link href="/corrections">Corrections</Link>
+                </div>
+              </details>
             </nav>
             <ViewerPicker />
           </div>

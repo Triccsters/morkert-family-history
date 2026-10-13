@@ -11,6 +11,7 @@ import {
 } from "../lib/data";
 import { confidenceLabels } from "../site.config";
 import { YourLine } from "../components/Viewer";
+import { ProvenBars } from "../components/Charts";
 
 function LineRow({ id }) {
   const p = getPerson(id);
@@ -94,6 +95,14 @@ export default function Home() {
       </ul>
 
       <YourLine />
+
+      <h2>How much is proven</h2>
+      <p className="muted small">
+        Each branch with three or more people. Green is everyone documented in an
+        original record; grey is the rest, still resting on a tree, a published
+        history or family knowledge.
+      </p>
+      <ProvenBars lines={lines} />
 
       <h2>How far back each branch goes</h2>
       <p className="muted small">

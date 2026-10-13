@@ -32,7 +32,12 @@
       "qc-marr-1796-joseph-loiseau",
       "qc-marr-1807-cartier-ritchot",
       "qc-marr-1775-ritchot-crevier"
-    ]
+    ],
+    "coords": [
+      52.4761,
+      -71.8259
+    ],
+    "coordsArea": true
   },
   {
     "id": "ohio",
@@ -54,7 +59,12 @@
       "census-1820-preble",
       "census-1880-henry",
       "census-1880-elias"
-    ]
+    ],
+    "coords": [
+      40.2254,
+      -82.6881
+    ],
+    "coordsArea": true
   },
   {
     "id": "carroll-county",
@@ -78,7 +88,12 @@
       "findagrave-elias",
       "census-1850-parke",
       "census-1880-joseph-c"
-    ]
+    ],
+    "coords": [
+      40.5802,
+      -86.5693
+    ],
+    "coordsArea": true
   },
   {
     "id": "baldwin-county",
@@ -100,7 +115,12 @@
     "sources": [
       "census-1910-alabama",
       "census-1910-henry"
-    ]
+    ],
+    "coords": [
+      30.5678,
+      -87.7324
+    ],
+    "coordsArea": true
   },
   {
     "id": "blackduck",
@@ -119,6 +139,10 @@
     ],
     "sources": [
       "census-1920-blackduck-henry"
+    ],
+    "coords": [
+      47.7333,
+      -94.5482
     ]
   },
   {
@@ -147,6 +171,10 @@
       "wwii-draft-orris",
       "census-1950-archie",
       "findagrave-henry-newton"
+    ],
+    "coords": [
+      48.2889,
+      -99.4376
     ]
   },
   {
@@ -180,6 +208,10 @@
       "findagrave-johnb",
       "census-1895-centerville",
       "census-1900-centerville"
+    ],
+    "coords": [
+      45.163,
+      -93.0558
     ]
   },
   {
@@ -208,6 +240,10 @@
       "obit-lloyd-2015",
       "findagrave-blanche",
       "obit-orris-2011"
+    ],
+    "coords": [
+      45.2791,
+      -92.9852
     ]
   },
   {
@@ -232,6 +268,10 @@
       "mn-birth-deann-1969",
       "mn-birth-joseph-1975",
       "mn-death-thomas-1934"
+    ],
+    "coords": [
+      45.2534,
+      -92.8063
     ]
   }
 ]

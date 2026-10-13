@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { places, placeCount, eventsAtPlace } from "../../lib/data";
+import MigrationMap from "../../components/MigrationMap";
 
 export const metadata = { title: "Places" };
 
@@ -12,6 +13,9 @@ export default function PlacesPage() {
         who was born, married or died there, and what is known about the place
         itself.
       </p>
+
+      <h3>How the family moved</h3>
+      <MigrationMap />
 
       <div className="grid">
         {places.map((pl) => {

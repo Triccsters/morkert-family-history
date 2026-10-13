@@ -1,0 +1,25 @@
+{
+  "_note": "Moves drawn on the Places map. Each one follows the overview text; stops are place ids from places.json. Coordinates in places.json come from OpenStreetMap (Nominatim), looked up once on 2026-10-13; a county, state or province is drawn at its centre.",
+  "routes": [
+    {
+      "name": "Houle",
+      "stops": [
+        "quebec",
+        "centerville",
+        "forest-lake"
+      ],
+      "when": "1850s to 1920"
+    },
+    {
+      "name": "Morkert",
+      "stops": [
+        "ohio",
+        "carroll-county",
+        "baldwin-county",
+        "leeds-nd",
+        "scandia"
+      ],
+      "when": "before 1852 to 1949"
+    }
+  ]
+}
