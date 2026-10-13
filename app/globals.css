@@ -227,6 +227,7 @@ table.timeline td { vertical-align: top; }
 .chart a:hover .chart-label { fill: var(--accent); }
 
 /* ---- menu: the extra links fold into "More" on phones ---- */
+.nav-extra { display: contents; }   /* the links stay spaced like the others */
 .nav-more { display: none; }
 @media (max-width: 700px) {
   .nav-extra { display: none; }
